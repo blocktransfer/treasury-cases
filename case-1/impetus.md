@@ -5,3 +5,5 @@
 - [3.10.72 Receiving, Extracting, and Sorting](https://www.irs.gov/irm/part3/irm_03-010-072r)
 - [20.1.2 Failure To File/Failure To Pay Penalties](https://www.irs.gov/irm/part20/irm_20-001-002r)
 - 26 CFR § 301.7502-1(c) is teh Loper of 26 USC 7502(a)
+
+IRS Internal Revenue Manual 3.10.72.6.2.2 says employees should retain envelopes when the postmark is needed to determine timely filing --https://www.irs.gov/irm/part3/irm_03-010-072r
