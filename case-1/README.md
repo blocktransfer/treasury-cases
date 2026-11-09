@@ -1,1 +1,1 @@
-Interieorpton of postmark dates
+Interpretation of postmark dates
