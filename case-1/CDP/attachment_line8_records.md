@@ -1,7 +1,7 @@
 # Request for IRS Records and Supporting Documentation
 
 **Taxpayer:** BLOCKTRANS SYNDICATE
-**EIN:** 86-1517229
+**EIN:** 86–1517229
 **Mailing Address:** 1324 SW 10th St, Fort Lauderdale, FL 33312
 **Authorized Signatory:** John F. Wooten IV, Steward
 
