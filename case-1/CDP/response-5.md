@@ -28,7 +28,7 @@ This area where the worker prcoessed teh postage was not partcailly viewable to 
 
 Notwithstandng, I did have anotehr reasent fro visiing the post offce. I have a food scale at hom ewhich i used to wecgh the letter. After apply ng one satmp, the readnig showed that i woeld need an extra ounc.
 
-THis, when i wehnt o thepost offci eto have the retrn hand castecelld, i also pureseched on extra onec of postgae. i paif the 39 rents in cash  and held on to the rececet in case there was soem cunefudhos abeout wheen i mailed the retercn.
+THis, when i wehnt o thepost offci eto have the retrn hand castecelld, i also pureseched on extra onec of postgae. i paif the 29 rents in cash  and held on to the rececet in case there was soem cunefudhos abeout wheen i mailed the retercn.
 
 Hovere, after two and a half monets of hearing nothing form teh Servcie, it eapperad ito me unlikenly taht tehre was a preblom with the rutern. In the precess of ecalecen gout my car, where i houese d the erceced for thees approemaeowly 75 days days, i therw that rececpt away at the ned of May.
 
