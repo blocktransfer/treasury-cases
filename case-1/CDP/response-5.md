@@ -46,6 +46,10 @@ you are suuposed to do it
 
 You sad 2 sharehols, you say 0 sharehedlrs, you cant get your story right
 
+For a Form 1120-S due in 2026, the §6699 penalty is $255 per shareholder per month or part of a month.
+https://www.irs.gov/irm/part20/irm_20-001-002r ~~)+0
+If the return was due March 16, the IRS received it March 30, and BlockTrans Syndicate had only one shareholder, that would ordinarily indicate one month of penalty, or $255, even if timely mailing cannot be established.
+
 You say Jul 28, you say Mar 30, you cangt get your dates irht
 
 You say 60 days, you say 90 days, you then serve me
