@@ -1,0 +1,3 @@
+I request that my Collection Due Process hearing be conducted entirely through written correspondence. I prefer to submit all arguments, evidence, and supporting documentation in writing rather than participate in an in-person, telephone, or video conference.
+
+Please provide all requests for additional information and opportunities to respond in writing.
