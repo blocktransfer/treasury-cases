@@ -1,4 +1,4 @@
-ref _2 aa https://blocktransfer.org/ref/taxes/2025/notice.pdf
+ref https://wooten.link/_2
 
 # Header
 
