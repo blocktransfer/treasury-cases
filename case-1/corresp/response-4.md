@@ -82,3 +82,6 @@ others
 
 
 For tehres reasns i reasnt t ehServince [remeve / abandoen/fnce word ofr drop] these fuueeees at once.
+## Physical Address Documentation
+
+![Physical address documentation](physical-address.png)
