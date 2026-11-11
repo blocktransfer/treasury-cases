@@ -65,3 +65,16 @@ The limitation is that 26 CFR §301.7502-1 still governs proof of timely postmar
 - [26 CFR § 301.7502-1 - Timely mailing of documents and payments treated as timely filing and paying. | Electronic Code of Federal Regulations (e-CFR) | US Law](https://www.law.cornell.edu/cfr/text/26/301.7502-1)
 
 The IRS's own guidance on credible testimony is particularly useful here.
+
+## 5. Research point — 26 USC § 7491(a) and the burden of proof
+
+[26 USC § 7491(a)](https://uscode.house.gov/us/usc/t26/s7491/) provides that in a qualifying **court proceeding**, the burden of proof on a factual issue relevant to liability for a tax imposed by Subtitle A or B may shift to the IRS when the taxpayer introduces credible evidence. The shift is conditional: the taxpayer must satisfy applicable substantiation requirements, maintain records **actually required** by federal tax law, and cooperate with reasonable IRS requests. A corporation must also meet the eligibility criteria incorporated from [26 USC § 7430(c)(4)(A)(ii)](https://uscode.house.gov/us/usc/t26/s7430/), and another specific statutory burden-of-proof rule may control instead.
+
+**Questions for further research in this case:**
+
+- Could credible, signed firsthand testimony about the March 16, 2026 USPS hand-cancellation support a contested factual finding, and what corroboration could strengthen it? Distinguish credibility of testimony from the specific proof-of-mailing rules under [26 USC § 7502](https://uscode.house.gov/us/usc/t26/s7502/) and its regulations.
+- Does any law actually require the taxpayer to *retain* a receipt or photograph of the postmark, as opposed to potentially needing evidence of timely mailing to prevail in a dispute? Section 7491(a)(2)(B) refers to records that are **required**; it does not itself create a new postmark-receipt retention obligation.
+- Is § 7491(a) applicable at all to the disputed [26 USC § 6699](https://uscode.house.gov/us/usc/t26/s6699/) **S corporation late-filing penalty**? Section 6699 is in Subtitle F, whereas § 7491(a) expressly addresses taxes imposed by Subtitles A and B. Do **not** assert a burden shift for this penalty without separate supporting authority.
+- Distinguish the possible use of § 7491(a) in later tax litigation from the present IRS correspondence and administrative appeals. Also note that § 7491(c)'s penalty-related burden of production expressly concerns **individuals**, whereas this penalty is assessed against a corporation. Research the actual burden and available defenses, including reasonable cause under § 6699(a).
+
+**Research status:** An issue to investigate, not an established ground for shifting the burden in this corporate penalty dispute.
