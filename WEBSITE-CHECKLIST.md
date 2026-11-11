@@ -1,0 +1,148 @@
+- [ ] Create a responsive website that works on desktop, tablet, and mobile.
+- [ ] Establish a clean, professional legal-document design.
+- [ ] Add a persistent navigation bar for Cases, Documents, Research, Timeline, and About.
+- [ ] Create a homepage showing current matters and recent activity.
+- [ ] Add breadcrumbs for navigating case folders and documents.
+- [ ] Support light and dark modes.
+- [ ] Add a sitewide search bar with keyboard shortcuts.
+- [ ] Provide permanent, shareable URLs for every case, document, and research note.
+- [ ] Add an accessible sidebar that reflects each case's procedural structure.
+- [ ] Generate pages automatically from repository Markdown and metadata.
+- [ ] Replace the repository's root README with a project overview, while preserving existing case material.
+- [ ] Maintain links back to the original GitHub source files and revision history.
+- [ ] Create a searchable directory of all legal cases and administrative proceedings.
+- [ ] Display each matter's title, case number, agency or court, and current status.
+- [ ] Support multiple related proceedings under one overarching matter.
+- [ ] Distinguish administrative appeals, judicial proceedings, and research-only matters.
+- [ ] Display status labels such as Preparing, Pending, Awaiting Response, Appealed, Closed, and Archived.
+- [ ] Add filters for agency, court, procedural stage, status, and year.
+- [ ] Show the date of the latest confirmed activity.
+- [ ] Add a short procedural summary to each case.
+- [ ] Identify the next known action or expected procedural event.
+- [ ] Support relationships between related cases and appeals.
+- [ ] Allow completed matters to remain available in an archival directory.
+- [ ] Create a structured case registry so new matters can be added without changing website code.
+- [ ] Give every matter its own overview page.
+- [ ] Show a concise description of the dispute and relief being sought.
+- [ ] Display the responsible court, agency, office, or tribunal.
+- [ ] Show current procedural posture and pending decisions.
+- [ ] List the important parties and representatives where appropriate for publication.
+- [ ] Identify controlling statutes, regulations, and relevant rules.
+- [ ] Separate established facts, disputed facts, legal arguments, and unresolved questions.
+- [ ] Display recent filings and correspondence.
+- [ ] Provide tabs for Overview, Timeline, Filings, Evidence, Research, and Drafts.
+- [ ] Include a visual map of the matter's procedural stages.
+- [ ] Track issues raised, preserved, waived, resolved, or reserved for appeal.
+- [ ] Link each legal argument to supporting record documents and authorities.
+- [ ] Provide a one-page printable case summary.
+- [ ] Provide a public working-notes view alongside each case's overview.
+- [ ] Create a chronological event timeline for every case.
+- [ ] Record communications received from agencies and courts.
+- [ ] Track submitted documents, filing dates, and acknowledgment dates.
+- [ ] Distinguish document dates, mailing dates, receipt dates, and docket-entry dates.
+- [ ] Record hearings, conferences, orders, notices, and decisions.
+- [ ] Display pending deadlines with their source authority.
+- [ ] Differentiate confirmed, calculated, estimated, and unverified deadlines.
+- [ ] Support event-specific notes explaining filing requirements.
+- [ ] Identify dependencies between procedural events.
+- [ ] Provide calendar and chronological-list views.
+- [ ] Allow filters by CDP, CAP, judicial review, or other procedural stage.
+- [ ] Support downloadable calendar events.
+- [ ] Provide optional email or calendar reminders.
+- [ ] Require human verification of calculated legal deadlines.
+- [ ] Preserve an audit history when dates or deadline calculations change.
+- [ ] Host PDF documents directly within the website.
+- [ ] Provide an embedded PDF viewer with zoom, search, and page navigation.
+- [ ] Support direct links to individual PDF pages.
+- [ ] Render Markdown documents as readable web pages.
+- [ ] Support file downloads without forcing users through GitHub.
+- [ ] Display document title, author or source, date, type, and procedural relevance.
+- [ ] Organize documents into correspondence, administrative filings, court filings, orders, evidence, and research.
+- [ ] Link exhibits and supporting attachments to the filings that reference them.
+- [ ] Provide document numbering and exhibit identifiers.
+- [ ] Distinguish original documents from transcriptions, OCR derivatives, and annotations.
+- [ ] Add optional OCR for image-only PDFs and scanned correspondence.
+- [ ] Create searchable text indexes while preserving the original documents.
+- [ ] Support document previews and thumbnail navigation.
+- [ ] Record SHA-256 hashes to help verify document integrity.
+- [ ] Identify superseded drafts without deleting earlier versions.
+- [ ] Support bulk document downloads and case archive exports.
+- [ ] Generate citation-ready document links.
+- [ ] Preserve file provenance, including the original source URL when available.
+- [ ] Create a central research library shared between cases.
+- [ ] Categorize research by issue, jurisdiction, court, and procedural stage.
+- [ ] Create individual pages for important statutes, regulations, and judicial opinions.
+- [ ] Support links to CourtListener opinions and docket records.
+- [ ] Link to authoritative sources including govinfo, the U.S. Code, agency materials, and court websites.
+- [ ] Record case names, citations, courts, dates, and docket numbers.
+- [ ] Distinguish binding authority, persuasive authority, dissenting opinions, and superseded authority.
+- [ ] Display relevant quotations alongside pinpoint citations.
+- [ ] Link specific arguments to the authorities supporting them.
+- [ ] Show where each authority has been used across multiple cases.
+- [ ] Provide topical collections such as appellate access, procedural due process, and evidentiary rules.
+- [ ] Maintain separate lists for verified authorities and sources awaiting review.
+- [ ] Add citation-format copy controls.
+- [ ] Detect broken source links and potentially stale references.
+- [ ] Preserve research notes independently of individual case folders.
+- [ ] Provide a dedicated Drafts section within each case.
+- [ ] Separate working drafts, review-ready drafts, and finalized submissions.
+- [ ] Display the latest draft with access to earlier revisions.
+- [ ] Compare different versions of a document.
+- [ ] Link draft paragraphs to relevant evidence and legal authority.
+- [ ] Track unresolved drafting questions and missing citations.
+- [ ] Support checklists for required filing components.
+- [ ] Identify attachments and exhibits required for each submission.
+- [ ] Export finalized Markdown documents to PDF.
+- [ ] Generate a filing package containing the principal document and selected attachments.
+- [ ] Preserve copies of documents as actually filed, separately from editable drafts.
+- [ ] Provide a final prefiling review checklist.
+- [ ] Integrate with GitHub Issues for research and preparation tasks.
+- [ ] Associate tasks with individual cases or research topics.
+- [ ] Track task status, priority, owner, and dependencies.
+- [ ] Create a dashboard for outstanding research questions.
+- [ ] Link completed work to the relevant commits and pull requests.
+- [ ] Provide review checklists for newly added documents.
+- [ ] Support contributor notes and suggested corrections.
+- [ ] Allow reviewers to flag unsupported assertions and missing sources.
+- [ ] Keep an activity log of changes to case materials.
+- [ ] Display upcoming work without confusing planned tasks with official court deadlines.
+- [ ] Link publicly readable GitHub Issues and pull-request discussions from related case pages.
+- [ ] Preserve attribution for research, edits, and document review.
+- [ ] Publish case records, research notes, working drafts, and documents openly.
+- [ ] Make case pages and document downloads accessible without reader accounts, authentication, or role-based restrictions.
+- [ ] Scan proposed publications for personal identifiers and sensitive information.
+- [ ] Require review before publishing correspondence or sensitive evidence.
+- [ ] Exclude unintended files and temporary build artifacts from published website builds.
+- [ ] Clearly mark any necessary redactions made before publishing correspondence or evidence.
+- [ ] Distinguish allegations, arguments, findings, and final holdings.
+- [ ] Display the verification status and last review date of research summaries.
+- [ ] Preserve published document revision history and correction notices.
+- [ ] Make clear that unofficial summaries are not court records.
+- [ ] Provide accessibility and privacy notices appropriate to the site's actual operation.
+- [ ] Automatically rebuild the website after approved changes merge into main.
+- [ ] Validate case metadata and required fields during CI.
+- [ ] Check internal links and referenced document paths.
+- [ ] Verify that PDF attachments referenced by Markdown exist.
+- [ ] Generate a structured search index at build time.
+- [ ] Produce recent-activity feeds from approved repository changes.
+- [ ] Check external court and research links periodically.
+- [ ] Optionally monitor supported public court dockets for new activity.
+- [ ] Flag newly detected docket events for human confirmation.
+- [ ] Offer optional AI-assisted summaries with links to supporting documents.
+- [ ] Offer an AI-assisted research search limited to approved published materials.
+- [ ] Require source inspection and human review before incorporating generated legal analysis.
+- [ ] Provide automated accessibility and mobile-layout testing.
+- [ ] Generate periodic archival exports and verify backups.
+- [ ] Deploy the public website using GitHub Pages and GitHub Actions.
+- [ ] Support an optional custom domain with HTTPS.
+- [ ] Set descriptive titles and metadata for individual case pages.
+- [ ] Generate a sitemap.
+- [ ] Provide readable print layouts for filings and research notes.
+- [ ] Ensure tables, timelines, and document viewers work on narrow screens.
+- [ ] Support direct navigation to headings and pinpoint references.
+- [ ] Add clear error pages and unavailable-document messages.
+- [ ] Create a contributor guide describing the repository structure.
+- [ ] Document how to add new cases, filings, events, and authorities.
+- [ ] Test the complete experience using Case 1.
+- [ ] Verify that existing repository content and relative links remain intact.
+- [ ] Publish the first usable version before adding optional integrations.
