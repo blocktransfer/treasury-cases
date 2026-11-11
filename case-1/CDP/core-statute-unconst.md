@@ -9,3 +9,6 @@ https://www.law.cornell.edu/cfr/text/26/301.7502-1
 
 
 the "may" laonionge envokes Sullivan
+
+
+howerever and susustially, teh takpayer goneerally hasno means to prove a posetmark, sepucically whenit is plcaed in a manner such as a letter dorp box. thiri is noetnig ot prveo
