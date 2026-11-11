@@ -35,7 +35,7 @@
 - [ ] Track issues raised, preserved, waived, resolved, or reserved for appeal.
 - [ ] Link each legal argument to supporting record documents and authorities.
 - [ ] Provide a one-page printable case summary.
-- [ ] Support a private working view separate from the public case page.
+- [ ] Provide a public working-notes view alongside each case's overview.
 - [ ] Create a chronological event timeline for every case.
 - [ ] Record communications received from agencies and courts.
 - [ ] Track submitted documents, filing dates, and acknowledgment dates.
@@ -106,14 +106,14 @@
 - [ ] Allow reviewers to flag unsupported assertions and missing sources.
 - [ ] Keep an activity log of changes to case materials.
 - [ ] Display upcoming work without confusing planned tasks with official court deadlines.
-- [ ] Support restricted internal discussions through an authenticated service.
+- [ ] Link publicly readable GitHub Issues and pull-request discussions from related case pages.
 - [ ] Preserve attribution for research, edits, and document review.
-- [ ] Separate public case records from private working materials.
-- [ ] Require an explicit public/private classification for each document.
+- [ ] Publish case records, research notes, working drafts, and documents openly.
+- [ ] Make case pages and document downloads accessible without reader accounts, authentication, or role-based restrictions.
 - [ ] Scan proposed publications for personal identifiers and sensitive information.
 - [ ] Require review before publishing correspondence or sensitive evidence.
-- [ ] Ensure unpublished material cannot be accessed through website assets or search indexes.
-- [ ] Protect privileged and confidential documents outside the public repository and deployment artifacts.
+- [ ] Exclude unintended files and temporary build artifacts from published website builds.
+- [ ] Clearly mark any necessary redactions made before publishing correspondence or evidence.
 - [ ] Distinguish allegations, arguments, findings, and final holdings.
 - [ ] Display the verification status and last review date of research summaries.
 - [ ] Preserve published document revision history and correction notices.
