@@ -48,10 +48,6 @@ A properly framed argument may cite Stevens's dissents for these limited proposi
 
 As of the [Supreme Court Rules effective March 16, 2026](https://www.supremecourt.gov/filingandrules/2026RulesoftheCourt_WEB.pdf), Rule 38 prescribes a docketing fee for ordinary petitions and Rule 39 provides a process for seeking IFP status. Rule 39.8 permits denial of IFP status when a petition is frivolous or malicious; Rule 39 also acknowledges documents submitted by a *pro se* party. An appellate argument should identify the precise court, filing rule, litigation posture, and record before invoking the dissent.
 
-## Primary authorities
+## Primary authorities by procedural stage
 
-- [*Zatko v. California*, 502 U.S. 16 (1991), majority and Stevens dissent](https://www.law.cornell.edu/supremecourt/text/502/16).
-- [*Martin v. District of Columbia Court of Appeals*, 506 U.S. 1 (1992), majority and Stevens dissent](https://www.law.cornell.edu/supremecourt/text/506/1).
-- [Supreme Court orders, May 12, 2008, p. 13 (*Stephen v. IRS*, docket 07-9980)](https://www.supremecourt.gov/orders/courtorders/051208pzr.pdf#page=13).
-- [28 USC § 1654 — Appearance personally or by counsel](https://uscode.house.gov/us/usc/119-134/t28/s1654/).
-- [Supreme Court Rules, effective March 16, 2026, Rules 38–39](https://www.supremecourt.gov/filingandrules/2026RulesoftheCourt_WEB.pdf).
+See the [stage-organized references directory](references/README.md) for the authorities governing appearance and filing, petition screening, the Court's disposition and prospective restrictions, and their later application. The sequence concerns certiorari and *in forma pauperis* decisions, not a merits hearing or the procedural history of a single lawsuit.
