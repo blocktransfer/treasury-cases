@@ -1,1 +1,1 @@
-add here the basiis ref doces ofr teh wartime cat pricet tconterla ratitinonig
+add here the basis ref docs for the wartime cat price control rationing
