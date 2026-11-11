@@ -54,6 +54,14 @@ Hovere, after two and a half monets of hearing nothing form teh Servcie, it eapp
 
 Thes, when i receceved the notic of late fililng in late June, i no longer had this papretral. ~~CHECHK TEH EXACT DATIES HERE fro their letter and thy PHFGS ADDRESS CAN~~ One mone soenenoce here wiht citaittnon to teh phygila address sact,whch you can attach as a supplemental doc
 
+## Recordkeeping Versus Proof of the Original Postmark
+
+[26 USC § 6001](https://uscode.house.gov/us/usc/t26/s6001/) authorizes tax recordkeeping requirements. [26 CFR § 1.6001-1(a)](https://www.ecfr.gov/current/title-26/section-1.6001-1) generally requires records sufficient to substantiate amounts reported on a return; subsection (d) addresses specific records required by notice, and subsection (e) addresses retention. These provisions do not expressly require the taxpayer to preserve a postmarked envelope, a separate postage receipt, or a photograph of the mailing.
+
+[26 USC § 7502(a)(1)](https://uscode.house.gov/us/usc/t26/s7502/) treats the USPS postmark **on the cover in which the return was mailed** as the date of delivery when statutory conditions are satisfied. Section 7502(a)(2)(A)–(B) also requires a timely postmark and timely deposit in properly addressed, postage-prepaid U.S. mail. The legally relevant mark is therefore the cancellation on the **actual envelope delivered to the Service**, not a duplicate retained by the sender. I witnessed the USPS employee hand-cancel that envelope on March 16, 2026, as described above, and request examination of any original envelope, scan, or intake record in the Service's possession.
+
+I recognize the separate burden of establishing a disputed or illegible postmark date under [26 CFR § 301.7502-1(c)(1)(iii)(A)](https://www.ecfr.gov/current/title-26/section-301.7502-1). That evidentiary issue should not be conflated with a supposed § 6001 duty to preserve a duplicate receipt. Registered and certified mail receive particular proof treatment under § 7502(c), but are not prescribed as the sole permissible way to mail a return.
+
 ## Documentary Evidence of Late-June Receipt
 
 At the time, I maintained a commercial virtual mailing address through PHYSICALADDRESS.COM, LLC. The service received and logged incoming physical correspondence on my behalf, while I could access the contents separately. This was an established arrangement: in an earlier response to a transfer-agent examination, I referred to our commercial arrangement for virtual mailbox services and identified PHYSICALADDRESS.COM, LLC in note 21. See [Examination Response #2, note 21](https://blocktransfer.org/ref/exams/2.pdf#page=11).
