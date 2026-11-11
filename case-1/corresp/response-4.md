@@ -56,6 +56,8 @@ Thes, when i receceved the notic of late fililng in late June, i no longer had t
 
 ## Documentary Evidence of Late-June Receipt
 
+At the time, I maintained a commercial virtual mailing address through PHYSICALADDRESS.COM, LLC. The service received and logged incoming physical correspondence on my behalf, while I could access the contents separately. This was an established arrangement: in an earlier response to a transfer-agent examination, I referred to our commercial arrangement for virtual mailbox services and identified PHYSICALADDRESS.COM, LLC in note 21. See [Examination Response #2, note 21](https://blocktransfer.org/ref/exams/2.pdf#page=11).
+
 The mail-handling activity log for envelope 4531397 identifies the sender as the IRS and records an "Add Envelope" event on June 26, 2026, at 12:07 p.m. EDT. The same record shows that the envelope was marked "Envelope Read" on July 9, 2026, at 3:04 a.m. EDT, and that four pages of its contents were added to a scan later that morning, at 10:02 a.m. EDT.
 
 These dated entries substantiate my statement that the IRS correspondence reached my mail-receiving service in late June 2026. Although I did not access its contents until July, the envelope had already been received by the service on June 26. The attached activity log documents that receipt date; it does not independently establish when the IRS mailed the notice or when my earlier return was postmarked.
