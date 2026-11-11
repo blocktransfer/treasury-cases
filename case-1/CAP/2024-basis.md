@@ -1,1 +1,1 @@
-the 23 rollover eaddaitn in AR PNL24 coems ofrm the amex accenss docs ref
+the 23 rollover eadmittance in AR PNL24 comes from the amex access docs ref
