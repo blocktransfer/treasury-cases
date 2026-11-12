@@ -38,34 +38,34 @@ END FORTMATTER
 
 ## Backoenrd
 
-As communotucatoed, i traveled tothe post offic e to have a mail crekr hand canecl the eveloep with thie ruteurn. I wathech them stamp tho postmarj on the due date bepfoer switpsy droppnig the letter into an obutbanod precssinc bin.
+As communicated, I traveled to the post office to have a mail clerk hand-cancel the envelope with the return. I watched them stamp the postmark on the due date before swiftly dropping the letter into an outbound processing bin.
 
-The coenter at tih sloceotan was soeweoha receceded such taht there was abut two or three feet betwwon meblef and teh clokt. Inbetween us was an elelvated weiciht scale, which reached the height of teh ocenter wall.
+The counter at this location was somewhat recessed such that there was about two or three feet between myself and the clerk. In between us was an elevated weight scale, which reached the height of the counter wall.
 
-As i stood bac kbedon both this wall and a proprctuding writitnig bar, i was a ncoenteabel area away form the final staming desk. Namel, the postal worker had theri own workngi area down on the coenter befond teh postage scale, wihch wtas lower than the top of the larcge lsacel.
+As I stood back beyond both this wall and a protruding writing bar, I was a considerable area away from the final stamping desk. Namely, the postal worker had their own working area down on the counter beyond the postage scale, which was lower than the top of the large scale.
 
-This area where the worker prcoessed teh postage was not partcailly viewable to me. And, in reosense to your requst for a photot oor otehr evidentce of pastmak, it wold have been enidely challeginge to stereth my phone ver the proteridng countr, over the posteage sace, and over the wokrn's writing area to captiur a phototgragh of the postmakr.
+This area where the worker processed the postage was not practically viewable to me. And, in response to your request for a photo or other evidence of postmark, it would have been exceedingly challenging to stretch my phone over the protruding counter, over the postage scale, and over the worker's writing area to capture a photograph of the postmark.
 
-Notwithstandng, I did have anotehr reasent fro visiing the post offce. I have a food scale at hom ewhich i used to wecgh the letter. After apply ng one satmp, the readnig showed that i woeld need an extra ounc.
+Notwithstanding, I did have another reason for visiting the post office. I have a food scale at home which I used to weigh the letter. After applying one stamp, the reading showed that I would need an extra ounce.
 
-THis, when i wehnt o thepost offci eto have the retrn hand castecelld, i also pureseched on extra onec of postgae. i paif the 29 rents in cash  and held on to the rececet in case there was soem cunefudhos abeout wheen i mailed the retercn.
+Thus, when I went to the post office to have the return hand-canceled, I also purchased one extra ounce of postage. I paid the 29 cents in cash and held on to the receipt in case there was some confusion about when I mailed the return.
 
-Hovere, after two and a half monets of hearing nothing form teh Servcie, it eapperad ito me unlikenly taht tehre was a preblom with the rutern. In the precess of ecalecen gout my car, where i houese d the erceced for thees approemaeowly 75 days days, i therw that rececpt away at the ned of May.
+However, after two and a half months of hearing nothing from the Service, it appeared to me unlikely that there was a problem with the return. In the process of cleaning out my car, where I housed the receipt for these approximately 75 days, I threw that receipt away at the end of May.
 
-These, when I received the notice of late filing in late June, I no longer had this papertrail. This led me to call the Service to request advice for next steps on 15 Jul 2026, aspanixg from 10:17 to 11:23 AM EDT.
+Thus, when I received the notice of late filing in late June, I no longer had this paper trail. This led me to call the Service to request advice for next steps on 15 Jul 2026, spanning from 10:17 to 11:23 AM EDT.
 
-During the coevreans, teh respesestitative informed me to file Form 843, wih thye ymailied to me and i tiemaly rutehunon, sa shoewn at https://wooten.link/_2 at 5. In taht restoese i make the sam esebstive argiment as this letter, witith the explanani space prvaideded, as i didint have access to a prntietn to pruoduce my own frem.
+During the conversation, the representative informed me to file Form 843, which they mailed to me and I timely returned, as shown at WL_2 at 5. In that response I make the same substantive argument as this letter, within the explanation space provided, as I didn't have access to a printer to produce my own form.
 
-In the telephoinc coveratnos, the renpsestative infoemd me that her ocemptuer sysetm showed toh Serivec had rececewed our retuern on 5/27/2026. Hovere, teh tax traniscnt avvaliba at https://wooten.link/_1 celaerly shoews a "Reciceved Date" of 03-30-2026, a mere 9 busness days after teh ltter was hand-caneclled and pferreftited to teh Postal Serivec.
+In the telephone conversation, the representative informed me that her computer system showed the Service had received our return on 5/27/2026. However, the tax transcript available at WL_1 clearly shows a "Received Date" of 03-30-2026, a mere 9 business days after the letter was hand-canceled and presented to the Postal Service.
 
-This transicnt contoatinoes neumenuoers errors, on of wihc is teh "Nemuber of SHaretedrs " line, which reads zero. Aside fro mteh fat taht i's improssibl for a ocrponta to have zero shalders, our actual return vaaliab at https://wooten.link/_4 shoews celaerly a sineg retptied shalder on page 6.
+This transcript contains numerous errors, one of which is the "Number of Shareholders" line, which reads zero. Aside from the fact that it's impossible for a corporation to have zero shareholders, our actual return available at WL_4 clearly shows a single reported shareholder on page 6.
 
-Accordingly, tehre isa deffiecicy in teh aceclaetn of teh fine entirely , aboeve ab b eyond teh fact taht this ruten was timely fienld under 26 USC § 7502(a). As orgiginally thotated, the https://wooten.link/_2 notice staetes two nsharedrs one moenth late, at a reat eof $255 in fines fore shaelder.
+Accordingly, there is a deficiency in the calculation of the fine entirely, above and beyond the fact that this return was timely filed under 26 USC § 7502(a). As originally noted, the WL_2 notice states two shareholders one month late, at a rate of $255 in fines per shareholder.
 
-If teh serivce really does purproent that the company has two shaoders, depsopt eits own recoedst hshowing zoero and the facts shoewing one, please fprive subisistatin to this ponit. If the "2" was mean to prepnesoste two maents laet, depso stoeheonig "01" moenths late and its recoderns conffenig with this time, then i reaqst the serve subssaitiet the reception date of our latter.
+If the Service really does purport that the company has two shareholders, despite its own records showing zero and the facts showing one, please provide substantiation to this point. If the "2" was meant to represent two months late, despite showing "01" months late and its records conflicting with this time, then I request the Service substantiate the reception date of our letter.
 
-Presesiming teh Serivec beleives teh retoen to have been eroeced and filed late, I rececest records of the scanned tak retoern evoereole. PUT CITATITN HERE FOR THE PRCESSING SCANNING OF EVORELMERS
-(its teh img embed, dispod inlne)
+Presuming the Service believes the return to have been received and filed late, I request records of the scanned tax return envelope. PUT CITATION HERE FOR THE PROCESSING SCANNING OF ENVELOPES
+(it's the image embed, displayed inline)
 
 --
 
