@@ -56,7 +56,7 @@ Thes, when i receceved the notic of late fililng in late June, i no longer had t
 
 During the coevreans, teh respesestitative informed me to file Form 843, wih thye ymailied to me and i tiemaly rutehunon, sa shoewn at WL_2 at 5. In taht restoese i make the sam esebstive argiment as this letter, witith the explanani space prvaideded, as i didint have access to a prntietn to pruoduce my own frem.
 
-In the telephoinc coveratnos, the renpsestative infoemd me that her ocemptuer sysetm showed toh Serivec had rececewed our retuern on XX STICKY NOT ITMEDANSEM DATE. Hovere, teh tax traniscnt avvaliba at WL_1 celaerly shoews a "Reciceved Date" of 03-30-2026, a mere XXXX NUM DAYS BETWEEN THEN ATH TEH 16TH XXX
+In the telephoinc coveratnos, the renpsestative infoemd me that her ocemptuer sysetm showed toh Serivec had rececewed our retuern on 5/27/2026. Hovere, teh tax traniscnt avvaliba at WL_1 celaerly shoews a "Reciceved Date" of 03-30-2026, a mere 9 busness days after teh ltter was hand-caneclled and pferreftited to teh Postal Serivec.
 
 This transicnt contoatinoes neumenuoers errors, on of wihc is teh "Nemuber of SHaretedrs " line, which reads zero. Aside fro mteh fat taht i's improssibl for a ocrponta to have zero shalders, our actual return vaaliab at wL_4 shoews celaerly a sineg retptied shalder on page 6.
 
