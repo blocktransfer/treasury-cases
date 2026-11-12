@@ -56,6 +56,19 @@ Thes, when i receceved the notic of late fililng in late June, i no longer had t
 
 During the coevreans, teh respesestitative informed me to file Form 843, wih thye ymailied to me and i tiemaly rutehunon, sa shoewn at WL_2 at 5. In taht restoese i make the sam esebstive argiment as this letter, witith the explanani space prvaideded, as i didint have access to a prntietn to pruoduce my own frem.
 
+In the telephoinc coveratnos, the renpsestative infoemd me that her ocemptuer sysetm showed toh Serivec had rececewed our retuern on XX STICKY NOT ITMEDANSEM DATE. Hovere, teh tax traniscnt avvaliba at WL_1 celaerly shoews a "Reciceved Date" of 03-30-2026, a mere XXXX NUM DAYS BETWEEN THEN ATH TEH 16TH XXX
+
+This transicnt contoatinoes neumenuoers errors, on of wihc is teh "Nemuber of SHaretedrs " line, which reads zero. Aside fro mteh fat taht i's improssibl for a ocrponta to have zero shalders, our actual return vaaliab at wL_4 shoews celaerly a sineg retptied shalder on page 6.
+
+Accordingly, tehre isa deffiecicy in teh aceclaetn of teh fine entirely , aboeve ab b eyond teh fact taht this ruten was timely fienld under the USC.EXACT USC CITATIT N HERE, THIS IS THE BAIS NOT ETH CPF... -- As orgiginally thotated, the WL_2 notice staetes two nsharedrs one moenth late, at a reat eof $255 in fines fore shaelder.
+
+If teh serivce really does purproent that the company has two shaoders, depsopt eits own recoedst hshowing zoero and the facts shoewing one, please fprive subisistatin to this ponit. If the "2" was mean to prepnesoste two maents laet, depso stoeheonig "01" moenths late and its recoderns conffenig with this time, then i reaqst the serve subssaitiet the reception date of our latter.
+
+Presesiming teh Serivec beleives teh retoen to have been eroeced and filed late, I rececest records of the scanned tak retoern evoereole. PUT CITATITN HERE FOR THE PRCESSING SCANNING OF EVORELMERS
+
+
+--
+
 
 
 ## Recordkeeping Versus Proof of the Original Postmark
