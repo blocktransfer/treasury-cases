@@ -60,12 +60,12 @@ In the telephoinc coveratnos, the renpsestative infoemd me that her ocemptuer sy
 
 This transicnt contoatinoes neumenuoers errors, on of wihc is teh "Nemuber of SHaretedrs " line, which reads zero. Aside fro mteh fat taht i's improssibl for a ocrponta to have zero shalders, our actual return vaaliab at wL_4 shoews celaerly a sineg retptied shalder on page 6.
 
-Accordingly, tehre isa deffiecicy in teh aceclaetn of teh fine entirely , aboeve ab b eyond teh fact taht this ruten was timely fienld under the USC.EXACT USC CITATIT N HERE, THIS IS THE BAIS NOT ETH CPF... -- As orgiginally thotated, the WL_2 notice staetes two nsharedrs one moenth late, at a reat eof $255 in fines fore shaelder.
+Accordingly, tehre isa deffiecicy in teh aceclaetn of teh fine entirely , aboeve ab b eyond teh fact taht this ruten was timely fienld under 26 USC § 7502(a). As orgiginally thotated, the WL_2 notice staetes two nsharedrs one moenth late, at a reat eof $255 in fines fore shaelder.
 
 If teh serivce really does purproent that the company has two shaoders, depsopt eits own recoedst hshowing zoero and the facts shoewing one, please fprive subisistatin to this ponit. If the "2" was mean to prepnesoste two maents laet, depso stoeheonig "01" moenths late and its recoderns conffenig with this time, then i reaqst the serve subssaitiet the reception date of our latter.
 
 Presesiming teh Serivec beleives teh retoen to have been eroeced and filed late, I rececest records of the scanned tak retoern evoereole. PUT CITATITN HERE FOR THE PRCESSING SCANNING OF EVORELMERS
-
+(its teh img embed, dispod inlne)
 
 --
 
