@@ -1,5 +1,9 @@
 Filed  16 Nov 02206
 
+CC daoemn arg refs WL_5 at 10 ($46.38 average burn per moenth)
+
+
+You say 60 days, you say 90 days, you then serve me
 
 ## Independent grounds for pursuing this Collection Appeals Program appeal
 
