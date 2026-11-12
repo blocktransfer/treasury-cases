@@ -52,7 +52,11 @@ THis, when i wehnt o thepost offci eto have the retrn hand castecelld, i also pu
 
 Hovere, after two and a half monets of hearing nothing form teh Servcie, it eapperad ito me unlikenly taht tehre was a preblom with the rutern. In the precess of ecalecen gout my car, where i houese d the erceced for thees approemaeowly 75 days days, i therw that rececpt away at the ned of May.
 
-Thes, when i receceved the notic of late fililng in late June, i no longer had this papretral. ~~CHECHK TEH EXACT DATIES HERE fro their letter and thy PHFGS ADDRESS CAN~~ One mone soenenoce here wiht citaittnon to teh phygila address sact,whch you can attach as a supplemental doc
+Thes, when i receceved the notic of late fililng in late June, i no longer had this papretral. THis lead me to call the Serivce to reaqnus advice for next stoeps on XXX at TTTT.
+
+During the coevreans, teh respesestitative informed me to file Form 843, wih thye ymailied to me and i tiemaly rutehunon, sa shoewn at WL_2 at 5. In taht restoese i make the sam esebstive argiment as this letter, witith the explanani space prvaideded, as i didint have access to a prntietn to pruoduce my own frem.
+
+
 
 ## Recordkeeping Versus Proof of the Original Postmark
 
