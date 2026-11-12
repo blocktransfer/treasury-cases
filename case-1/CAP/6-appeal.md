@@ -2,6 +2,9 @@ Filed  16 Nov 02206
 
 CC daoemn arg refs WL_5 at 10 ($46.38 average burn per moenth)
 
+
+You say 60 days, you say 90 days, you then serve me
+
 ## Independent grounds for pursuing this Collection Appeals Program appeal
 
 The Syndicate requests review of the appropriateness of a levy against the funds in its operating bank account. This appeal is not merely an objection to the processing of a collection action, nor does it depend entirely on resolution of the disputed underlying liability. The proposed means of collection poses a distinct, concrete threat to the Syndicate's ability to meet ordinary corporate obligations as they become due. Seizing the available operating funds would leave the Syndicate unable to make routine payments that cannot always be deferred until a tax controversy is resolved.
