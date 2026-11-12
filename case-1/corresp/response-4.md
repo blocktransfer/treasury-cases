@@ -54,13 +54,13 @@ However, after two and a half months of hearing nothing from the Service, it app
 
 Thus, when I received the notice of late filing in late June, I no longer had this paper trail. This led me to call the Service to request advice for next steps on 15 Jul 2026, spanning from 10:17 to 11:23 AM EDT.
 
-During the conversation, the representative informed me to file Form 843, which they mailed to me and I timely returned, as shown at WL_2 at 5. In that response I make the same substantive argument as this letter, within the explanation space provided, as I didn't have access to a printer to produce my own form.
+During the conversation, the representative informed me to file Form 843, which they mailed to me and I timely returned, as shown at https://wooten.link/_2 at 5. In that response I make the same substantive argument as this letter, within the explanation space provided, as I didn't have access to a printer to produce my own form.
 
-In the telephone conversation, the representative informed me that her computer system showed the Service had received our return on 5/27/2026. However, the tax transcript available at WL_1 clearly shows a "Received Date" of 03-30-2026, a mere 9 business days after the letter was hand-canceled and presented to the Postal Service.
+In the telephone conversation, the representative informed me that her computer system showed the Service had received our return on 5/27/2026. However, the tax transcript available at https://wooten.link/_1 clearly shows a "Received Date" of 03-30-2026, a mere 9 business days after the letter was hand-canceled and presented to the Postal Service.
 
-This transcript contains numerous errors, one of which is the "Number of Shareholders" line, which reads zero. Aside from the fact that it's impossible for a corporation to have zero shareholders, our actual return available at WL_4 clearly shows a single reported shareholder on page 6.
+This transcript contains numerous errors, one of which is the "Number of Shareholders" line, which reads zero. Aside from the fact that it's impossible for a corporation to have zero shareholders, our actual return available at https://wooten.link/_4 clearly shows a single reported shareholder on page 6.
 
-Accordingly, there is a deficiency in the calculation of the fine entirely, above and beyond the fact that this return was timely filed under 26 USC § 7502(a). As originally noted, the WL_2 notice states two shareholders one month late, at a rate of $255 in fines per shareholder.
+Accordingly, there is a deficiency in the calculation of the fine entirely, above and beyond the fact that this return was timely filed under 26 USC § 7502(a). As originally noted, the https://wooten.link/_2 notice states two shareholders one month late, at a rate of $255 in fines per shareholder.
 
 If the Service really does purport that the company has two shareholders, despite its own records showing zero and the facts showing one, please provide substantiation to this point. If the "2" was meant to represent two months late, despite showing "01" months late and its records conflicting with this time, then I request the Service substantiate the reception date of our letter.
 
