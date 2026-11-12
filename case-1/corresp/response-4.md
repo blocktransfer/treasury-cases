@@ -69,6 +69,10 @@ Presesiming teh Serivec beleives teh retoen to have been eroeced and filed late,
 
 --
 
+Put argument here for proroof of postbamrk not boing teh buren of teh takxpaer in 6001
+
+--
+
 
 
 ## Recordkeeping Versus Proof of the Original Postmark
