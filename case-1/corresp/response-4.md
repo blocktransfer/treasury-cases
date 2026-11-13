@@ -75,9 +75,9 @@ Under no statutory or factual interpretation can BlockTrans Syndicate be assesse
 The Service's demand for the taxpayer to produce a "proof of postmark" or photographic evidence conflates substantive tax recordkeeping with the procedural mechanics of mail delivery.
 
 1. 26 U.S.C. § 6001 and 26 C.F.R. § 1.6001-1(a):  
-   Section 6001 authorizes the Secretary to require taxpayers to maintain records. Implementing Treasury Regulation § 1.6001-1(a) requires taxpayers to keep books or records sufficient to establish gross income, deductions, credits, or other items *required to be shown on the return*. The date, time, and physical method by which a return is transported to the post office is an extrinsic act of delivery; it is not an item reported *on* Form 1120-S. Neither § 6001 nor § 1.6001-1 requires a taxpayer to generate, retain, or store duplicate postal receipts, photographs of counter workers, or copies of outbound postmarked envelopes.
+   Section 6001 authorizes the Secretary to require taxpayers to maintain records. Implementing Treasury Regulation § 1.6001-1(a) requires taxpayers to keep books or records sufficient to establish gross income, deductions, credits, or other items _required to be shown on the return_. The date, time, and physical method by which a return is transported to the post office is an extrinsic act of delivery; it is not an item reported _on_ Form 1120-S. Neither § 6001 nor § 1.6001-1 requires a taxpayer to generate, retain, or store duplicate postal receipts, photographs of counter workers, or copies of outbound postmarked envelopes.
 2. Retention Limitations Under § 1.6001-1(e):  
-   Section 1.6001-1(e) governs the retention period of records *otherwise required* by the regulations. Because a personal postal cash receipt is not a required accounting record under § 1.6001-1(a), discarding it after 75 days violates no statutory or regulatory recordkeeping mandate.
+   Section 1.6001-1(e) governs the retention period of records _otherwise required_ by the regulations. Because a personal postal cash receipt is not a required accounting record under § 1.6001-1(a), discarding it after 75 days violates no statutory or regulatory recordkeeping mandate.
 3. The Operative Mark Governed by 26 U.S.C. § 7502(a):  
    Under 26 U.S.C. § 7502(a)(1), when a document is delivered after the due date by U.S. mail, the date of the USPS postmark stamped on the cover in which the document is mailed is deemed the date of delivery. The legally operative artifact is the physical cancellation on the actual envelope delivered to and received by the Service, not a secondary receipt held by the sender.
 4. Certified and Registered Mail are Safe Harbors, Not Mandates:  
@@ -88,9 +88,9 @@ The Service's demand for the taxpayer to produce a "proof of postmark" or photog
 
 While the Service demands that the taxpayer produce a postmark that was surrendered to the Postal Service on March 16, 2026, the Service's own administrative rules place the burden of retaining postmarked envelopes directly on IRS intake units:
 
-1. IRM § 3.10.72.6.2.2 (*Envelopes to be Retained*):  
+1. IRM § 3.10.72.6.2.2 (_Envelopes to be Retained_):
    The Internal Revenue Manual instructs IRS receiving, sorting, and extracting personnel that when an incoming return is received after the statutory filing deadline, personnel must retain the mailing envelope and staple or scan it with the return specifically to preserve postmark evidence for § 7502 determinations.
-2. IRM § 20.1.2.2.1 (*Timely Mailing Treated as Timely Filing*):  
+2. IRM § 20.1.2.2.1 (_Timely Mailing Treated as Timely Filing_):
    This section directs examiners and processing employees to examine the postmark on the preserved envelope before assessing any failure-to-file penalty.
 
 If the Service asserts that the return was received on March 30, 2026, the Service was required under IRM § 3.10.72.6.2.2 to retain the envelope bearing the March 16, 2026 hand-cancellation. The taxpayer formally requests that the Service examine its own internal imaging archives, Documentum repositories, or intake jackets for the envelope scan associated with this return.
@@ -100,16 +100,16 @@ If the Service asserts that the return was received on March 30, 2026, the Servi
 
 Where physical postmark impressions are lost, discarded by the Service, or questioned, federal administrative standards and internal IRS guidelines explicitly require the evaluation of credible firsthand testimony:
 
-1. IRM § 4.10.7.3.2 (*Oral Testimony and Credibility*):  
+1. IRM § 4.10.7.3.2 (_Oral Testimony and Credibility_):
    The Service's own instructions to examiners govern the evaluation of evidence when physical documents are unavailable:
-   > *"Under the case law, uncontradicted statements which are not improbable or unreasonable should not be disregarded."*  
+   > _"Under the case law, uncontradicted statements which are not improbable or unreasonable should not be disregarded."_
    The manual explicitly directs examiners to weigh surrounding facts, recognize that oral or unsworn statements may be the only available evidence, and accept formal affidavits or declarations.
 2. 28 U.S.C. § 1746 Declarations:  
    Congress provided in 28 U.S.C. § 1746 that unsworn declarations executed under penalty of perjury possess the legal force of a sworn affidavit. My sworn testimony regarding the March 16, 2026 hand-cancellation is uncontradicted, plausible, consistent across all filings (including Form 843 submitted in July 2026), and fully aligned with the March 30 transit date recorded on the IRS Account Transcript.
 3. Taxpayer Bill of Rights (26 U.S.C. § 7803(a)(3)):  
    Congress codified the Taxpayer Bill of Rights into the Internal Revenue Code:
-   - § 7803(a)(3)(D): *The Right to Challenge the IRS's Position and Be Heard.*
-   - § 7803(a)(3)(J): *The Right to a Fair and Just Tax System.*  
+   - § 7803(a)(3)(D): _The Right to Challenge the IRS's Position and Be Heard._
+   - § 7803(a)(3)(J): _The Right to a Fair and Just Tax System._
    Rejecting a taxpayer's uncontradicted, sworn account of personal post-office delivery simply because the taxpayer cannot produce a photograph of a postal clerk's recessed desk violates the statutory mandate of § 7803(a)(3).
 
 
@@ -118,7 +118,7 @@ Where physical postmark impressions are lost, discarded by the Service, or quest
 Even if the Service were to conclude that timely mailing under 26 U.S.C. § 7502 cannot be conclusively established from its own missing envelope records, the penalty must be abated under the statutory reasonable-cause exception.
 
 1. Statutory Standard:  
-   26 U.S.C. § 6699(a) provides that the late-filing penalty on an S corporation *shall not apply* if it is shown that the failure is due to reasonable cause and not willful neglect.
+   26 U.S.C. § 6699(a) provides that the late-filing penalty on an S corporation _shall not apply_ if it is shown that the failure is due to reasonable cause and not willful neglect.
 2. Ordinary Business Care and Prudence (26 C.F.R. § 301.6651-1(c)):  
    Under Treasury Regulations and IRM § 20.1.1.3.2, reasonable cause is demonstrated where the taxpayer exercised ordinary business care and prudence in attempting to satisfy the filing obligation. 
 3. Taxpayer's Diligence:  
