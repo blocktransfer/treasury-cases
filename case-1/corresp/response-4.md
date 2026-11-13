@@ -32,7 +32,7 @@ This response provides a comprehensive factual statement and legal explanation d
 5. Even if statutory timely mailing under § 7502 were disregarded, the taxpayer's extraordinary diligence establishes reasonable cause and an absence of willful neglect under 26 U.S.C. § 6699(a) and 26 C.F.R. § 301.6651-1(c), warranting complete penalty abatement.
 
 
-## I. Factual Narrative of Timely Mailing and Postal Circumstances
+## Factual Narrative of Timely Mailing and Postal Circumstances
 
 On the statutory filing deadline of March 16, 2026, I personally traveled to the local United States Postal Service (USPS) retail facility to mail the completed Form 1120-S. 
 
@@ -47,21 +47,21 @@ The physical layout of the postal service counter made photographic capture impo
 I retained the $0.29 cash register receipt in my vehicle console as a precaution. For approximately 75 days, no communication, deficiency notice, or inquiry was received from the Service. Because an ordinary first-class mailing would typically generate an inquiry within 30 to 60 days if lost or misdirected, I reasonably concluded that the return had been received and processed without incident. In late May 2026, while cleaning out my vehicle, I discarded the small paper cash receipt.
 
 
-## II. Subsequent Notice, Telephone Inquiries, and Administrative Inconsistencies
+## Subsequent Notice, Telephone Inquiries, and Administrative Inconsistencies
 
-### A. Late-June Receipt via Virtual Mailbox
+### Late-June Receipt via Virtual Mailbox
 At all relevant times, the corporation maintained a commercial virtual mailbox service through PHYSICALADDRESS.COM, LLC. This established arrangement was previously documented in note 21 of our formal transfer-agent examination response (see [Examination Response #2, note 21](https://blocktransfer.org/ref/exams/2.pdf#page=11)). 
 
 The mail-handling log from PHYSICALADDRESS.COM, LLC confirms that the Service's initial [Notice CP162A](https://blocktransfer.org/ref/taxes/2025/notice.pdf) was not received by the virtual mailbox facility until late June 2026—well after the paper receipt had been discarded in ordinary course at the end of May. The mail log is corroborated by the documentation reproduced in Section VIII below.
 
-### B. Conflicting Service Records: March 30 vs. May 27
+### Conflicting Service Records: March 30 vs. May 27
 Upon receiving the notice, I telephoned the Service on July 15, 2026, between 10:17 AM and 11:23 AM EDT. During this call:
 - The representative stated that internal IRS systems reflected a receipt date of May 27, 2026.
 - However, the official IRS Account Transcript available at https://wooten.link/_1 establishes a recorded "Received Date" of March 30, 2026.
 
 A March 30, 2026 receipt date represents exactly nine intervening business days following a March 16, 2026 postmark—a standard transit interval for first-class mail routed to an IRS processing center. The telephone representative's assertion of May 27, 2026 is entirely uncorroborated by the transcript and reflects an internal data-entry discrepancy within the Service.
 
-### C. Factual Error in Shareholder Count
+### Factual Error in Shareholder Count
 The underlying penalty calculation under 26 U.S.C. § 6699 contains an irreconcilable error:
 - Notice CP162A assesses a late-filing penalty of $510.00, calculated as two shareholders for one month at $255.00 per shareholder.
 - The IRS Account Transcript (https://wooten.link/_1) lists the "Number of Shareholders" as zero (0).
@@ -70,7 +70,7 @@ The underlying penalty calculation under 26 U.S.C. § 6699 contains an irreconci
 Under no statutory or factual interpretation can BlockTrans Syndicate be assessed for two shareholders. Even if late filing were assumed arguendo, the maximum monthly penalty under 26 U.S.C. § 6699 for a single-shareholder S corporation is $255.00, not $510.00.
 
 
-## III. Statutory Scope of Taxpayer Recordkeeping (26 U.S.C. § 6001 vs. § 7502)
+## Statutory Scope of Taxpayer Recordkeeping (26 U.S.C. § 6001 vs. § 7502)
 
 The Service's demand for the taxpayer to produce a "proof of postmark" or photographic evidence conflates substantive tax recordkeeping with the procedural mechanics of mail delivery.
 
@@ -84,7 +84,7 @@ The Service's demand for the taxpayer to produce a "proof of postmark" or photog
    While 26 U.S.C. § 7502(c) and 26 C.F.R. § 301.7502-1(c)(2) provide statutory safe harbors for registered and certified mail stubs, the Code nowhere prescribes registered or certified mail as the exclusive lawful method of depositing a return. Depositing first-class mail with prepaid postage on the statutory due date remains fully recognized under 26 U.S.C. § 7502(a).
 
 
-## IV. The Service's Duty to Retain and Scan Envelopes (IRM § 3.10.72 & § 20.1.2)
+## The Service's Duty to Retain and Scan Envelopes (IRM § 3.10.72 & § 20.1.2)
 
 While the Service demands that the taxpayer produce a postmark that was surrendered to the Postal Service on March 16, 2026, the Service's own administrative rules place the burden of retaining postmarked envelopes directly on IRS intake units:
 
@@ -96,7 +96,7 @@ While the Service demands that the taxpayer produce a postmark that was surrende
 If the Service asserts that the return was received on March 30, 2026, the Service was required under IRM § 3.10.72.6.2.2 to retain the envelope bearing the March 16, 2026 hand-cancellation. The taxpayer formally requests that the Service examine its own internal imaging archives, Documentum repositories, or intake jackets for the envelope scan associated with this return.
 
 
-## V. Credibility of Firsthand Testimony and Taxpayer Rights
+## Credibility of Firsthand Testimony and Taxpayer Rights
 
 Where physical postmark impressions are lost, discarded by the Service, or questioned, federal administrative standards and internal IRS guidelines explicitly require the evaluation of credible firsthand testimony:
 
@@ -113,7 +113,7 @@ Where physical postmark impressions are lost, discarded by the Service, or quest
    Rejecting a taxpayer's uncontradicted, sworn account of personal post-office delivery simply because the taxpayer cannot produce a photograph of a postal clerk's recessed desk violates the statutory mandate of § 7803(a)(3).
 
 
-## VI. Reasonable Cause Relief Under 26 U.S.C. § 6699(a)
+## Reasonable Cause Relief Under 26 U.S.C. § 6699(a)
 
 Even if the Service were to conclude that timely mailing under 26 U.S.C. § 7502 cannot be conclusively established from its own missing envelope records, the penalty must be abated under the statutory reasonable-cause exception.
 
@@ -127,7 +127,7 @@ Even if the Service were to conclude that timely mailing under 26 U.S.C. § 7502
 This record represents the antithesis of willful neglect. Ordinary business care and prudence was exercised at every stage.
 
 
-## VII. Conclusion and Requested Action
+## Conclusion and Requested Action
 
 For the reasons established above, BlockTrans Syndicate respectfully requests that the Service:
 1. Examine its internal intake scans or envelope retention records pursuant to IRM § 3.10.72.6.2.2;
@@ -142,13 +142,13 @@ In good faith,
 BlockTrans Syndicate
 
 
-## VIII. Documentary Evidence: Virtual Mailbox Intake Log
+## Documentary Evidence: Virtual Mailbox Intake Log
 
 The following record from PHYSICALADDRESS.COM, LLC confirms the late-June receipt of the Service's initial notice, corroborating why the physical postal receipt was discarded in ordinary course prior to notice delivery:
 
 ![Physical address documentation](physical-address.png)
 
 
-## IX. Documentary Evidence: Original Timestamped Tax-Return Upload
+## Documentary Evidence: Original Timestamped Tax-Return Upload
 
 The original, timestamped upload of the corporation's 2025 tax-return materials is available at https://wooten.link/_0. I submit this contemporaneous record as additional documentary evidence for the chronology of the return. I request that the Service review the original uploaded materials and the date and time recorded with that upload alongside the Form 1120-S, the account transcript, and my firsthand account of presenting the return to the Postal Service for hand-cancellation on March 16, 2026.
