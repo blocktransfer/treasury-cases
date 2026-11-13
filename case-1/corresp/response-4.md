@@ -54,14 +54,14 @@ I retained the $0.29 cash register receipt in my vehicle console as a precaution
 ### A. Late-June Receipt via Virtual Mailbox
 At all relevant times, the corporation maintained a commercial virtual mailbox service through PHYSICALADDRESS.COM, LLC. This established arrangement was previously documented in note 21 of our formal transfer-agent examination response (see [Examination Response #2, note 21](https://blocktransfer.org/ref/exams/2.pdf#page=11)). 
 
-The mail-handling log from PHYSICALADDRESS.COM, LLC confirms that the Service's initial [Notice CP162A](https://blocktransfer.org/ref/taxes/2025/notice.pdf) was not received by the virtual mailbox facility until late June 2026--well after the paper receipt had been discarded in ordinary course at the end of May. The mail log is corroborated by the documentation reproduced in Section VIII below.
+The mail-handling log from PHYSICALADDRESS.COM, LLC confirms that the Service's initial [Notice CP162A](https://blocktransfer.org/ref/taxes/2025/notice.pdf) was not received by the virtual mailbox facility until late June 2026—well after the paper receipt had been discarded in ordinary course at the end of May. The mail log is corroborated by the documentation reproduced in Section VIII below.
 
 ### B. Conflicting Service Records: March 30 vs. May 27
 Upon receiving the notice, I telephoned the Service on July 15, 2026, between 10:17 AM and 11:23 AM EDT. During this call:
 - The representative stated that internal IRS systems reflected a receipt date of May 27, 2026.
 - However, the official IRS Account Transcript available at [https://wooten.link/_1](https://wooten.link/_1) establishes a recorded "Received Date" of March 30, 2026.
 
-A March 30, 2026 receipt date represents exactly nine intervening business days following a March 16, 2026 postmark--a standard transit interval for first-class mail routed to an IRS processing center. The telephone representative's assertion of May 27, 2026 is entirely uncorroborated by the transcript and reflects an internal data-entry discrepancy within the Service.
+A March 30, 2026 receipt date represents exactly nine intervening business days following a March 16, 2026 postmark—a standard transit interval for first-class mail routed to an IRS processing center. The telephone representative's assertion of May 27, 2026 is entirely uncorroborated by the transcript and reflects an internal data-entry discrepancy within the Service.
 
 ### C. Factual Error in Shareholder Count
 The underlying penalty calculation under 26 U.S.C. § 6699 contains an irreconcilable error:
