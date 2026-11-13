@@ -2,7 +2,7 @@
 
 Date: November 12, 2026  
 To: Internal Revenue Service  
-From: BlockTrans Syndicate Inc. / John Wooten  
+From: BlockTrans Syndicate / John Wooten  
 Matter: Response to Letter 1382C (dated October 14, 2026) regarding Notice CP162A (Notice 0234109336)  
 Tax Form / Period: Form 1120-S (Tax Year 2025)  
 Submission Channel: IRS Document Upload Tool  
@@ -12,7 +12,7 @@ Supporting Case Files: [https://wooten.link/_2](https://wooten.link/_2)
 
 ### Declaration Under Penalty of Perjury (28 U.S.C. § 1746)
 
-I, John Wooten, hereby declare under penalty of perjury under the laws of the United States of America that the factual statements and narrative set forth herein regarding the mailing and filing of the 2025 Form 1120-S for BlockTrans Syndicate Inc., as well as prior communications with the Internal Revenue Service, are true, correct, and complete to the best of my knowledge and firsthand recollection.
+I, John Wooten, hereby declare under penalty of perjury under the laws of the United States of America that the factual statements and narrative set forth herein regarding the mailing and filing of the 2025 Form 1120-S for BlockTrans Syndicate, as well as prior communications with the Internal Revenue Service, are true, correct, and complete to the best of my knowledge and firsthand recollection.
 
 Executed on November 12, 2026.
 
@@ -67,7 +67,7 @@ The underlying penalty calculation under 26 U.S.C. § 6699 contains an irreconci
 - The IRS Account Transcript ([https://wooten.link/_1](https://wooten.link/_1)) lists the “Number of Shareholders” as zero (0).
 - The Filed Form 1120-S ([https://wooten.link/_4](https://wooten.link/_4), page 6) clearly reflects one (1) single reported shareholder.
 
-Under no statutory or factual interpretation can BlockTrans Syndicate Inc. be assessed for two shareholders. Even if late filing were assumed arguendo, the maximum monthly penalty under 26 U.S.C. § 6699 for a single-shareholder S corporation is $255.00, not $510.00.
+Under no statutory or factual interpretation can BlockTrans Syndicate be assessed for two shareholders. Even if late filing were assumed arguendo, the maximum monthly penalty under 26 U.S.C. § 6699 for a single-shareholder S corporation is $255.00, not $510.00.
 
 ---
 
@@ -134,7 +134,7 @@ This record represents the antithesis of willful neglect. Ordinary business care
 
 ## VII. Conclusion and Requested Action
 
-For the reasons established above, BlockTrans Syndicate Inc. respectfully requests that the Service:
+For the reasons established above, BlockTrans Syndicate respectfully requests that the Service:
 1. Examine its internal intake scans or envelope retention records pursuant to IRM § 3.10.72.6.2.2;
 2. Correct the internal transcript discrepancy that misidentifies the corporation as having zero or two shareholders; and
 3. Fully abate and remove the $510.00 penalty assessed under 26 U.S.C. § 6699 along with all associated interest.
@@ -144,7 +144,7 @@ Respectfully submitted,
 ```
 ______________________________________
 John Wooten
-BlockTrans Syndicate Inc.
+BlockTrans Syndicate
 ```
 
 ---
