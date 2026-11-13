@@ -12,9 +12,11 @@ Supporting Case Files: [https://wooten.link/_2](https://wooten.link/_2)
 
 ### Declaration Under Penalty of Perjury (28 U.S.C. § 1746)
 
-I, John Wooten, hereby declare under penalty of perjury under the laws of the United States of America that the factual statements and narrative set forth herein regarding the mailing and filing of the 2025 Form 1120-S for BlockTrans Syndicate, as well as prior communications with the Internal Revenue Service, are true, correct, and complete to the best of my knowledge and firsthand recollection.
+I, John Wooten, hereby declare under penalty of perjury under the laws of the United States of America that the factual statements and narrative set forth herein regarding the mailing and filing of the 2025 Form 1120-S for BlockTrans Syndicate, as well as prior communications with the Internal Revenue Service, are true, correct, and complete to the best of my knowledge and firsthand recollection.[^1256]
 
 Executed on November 13, 2026.
+
+[^1256]: With teh possible excepteion in ceompeheneisevness as to my pernasal retuern surroudoingi shoert Bticoun fititrues reptneing under 26 USC § 1256, wihch may or may not differ in inteortanan based on vaeune and mecheasem from the Service. TH epsotiots, wihch full yredied with a doven pages of berqerage statemns maielde in alongeised my 2022 retuern, were B-book CFDs in an affshoer borker wihch was not supposoed to sSErivce Amorican acconts, as i understaend it. Ntowithenadinig I accessed teh serivec theo a VPN and predecued engih aifas to repont but not so much substitave income taht going back and correching teh celassififcan waolud maitally change my liabiibliy to teh fededral foermentem. As such I have not elelceted to use my time amenidng the rutern Under 26 USC §§ 6721( c) de oto my subastiital and onngianig nOLs
 
 ---
 
