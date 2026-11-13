@@ -154,3 +154,11 @@ BlockTrans Syndicate Inc.
 The following record from PHYSICALADDRESS.COM, LLC confirms the late-June receipt of the Service's initial notice, corroborating why the physical postal receipt was discarded in ordinary course prior to notice delivery:
 
 ![Physical address documentation](physical-address.png)
+
+---
+
+## IX. Documentary Evidence: Original Timestamped Tax-Return Upload
+
+The original, timestamped upload of the corporation's 2025 tax-return materials is available at [https://wooten.link/_0](https://wooten.link/_0). I submit this contemporaneous record as additional documentary evidence for the chronology of the return. I request that the Service review the original uploaded materials and the date and time recorded with that upload alongside the Form 1120-S, the account transcript, and my firsthand account of presenting the return to the Postal Service for hand-cancellation on March 16, 2026.
+
+The upload timestamp documents an upload event, not necessarily the USPS postmark or the date on which the Service received the mailed return. I offer it as corroborating evidence, not as a substitute for the postmarked envelope or the Service's own intake records.
