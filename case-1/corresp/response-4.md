@@ -16,7 +16,7 @@ I, John Wooten, hereby declare under penalty of perjury under the laws of the Un
 
 Executed on November 13, 2026.
 
-[^1256]: With the possible exception in comprehensiveness as to my personal return surrounding short Bitcoin futures reporting under 26 USC § 1256, which may or may not differ in interpretation based on venue and mechanism from the Service. The positions, which were fully documented with a dozen pages of brokerage statements mailed in alongside my 2022 return, were B-book CFDs with an offshore broker that was not supposed to service American accounts, as I understand it. Notwithstanding, I accessed the service through a VPN and produced enough gains to report, but not so much substantive income that going back and correcting the classification would materially change my liability to the federal government. As such, I have not elected to use my time amending the return under 26 USC §§ 6721(c) due to my substantial and ongoing NOLs.
+[^1256]: With the possible exception in comprehensiveness as to my personal return surrounding short Bitcoin futures reporting under 26 USC § 1256, which may or may not differ in interpretation based on venue and mechanism from the Service. The positions, which were fully documented with a dozen pages of brokerage statements mailed in alongside my 2022 return, were B-book CFDs with an offshore broker that was not supposed to service American accounts, as I understand it. Notwithstanding, I accessed the service through a VPN and produced enough gains to report, but not so much substantive income that going back and correcting the classification would materially change my liability to the federal government. As such, I have not elected to use my time amending the return under 26 USC § 6721(c) due to my substantial and ongoing NOLs.
 
 ---
 
@@ -31,7 +31,6 @@ This response provides a comprehensive factual statement and legal explanation d
 4. The Service's internal records contain glaring contradictions regarding the receipt date (March 30, 2026 on the Account Transcript versus May 27, 2026 reported telephonically) and the shareholder count (two shareholders assessed versus one actual shareholder reported on Form 1120-S Schedule K-1 and zero recorded on the transcript); and
 5. Even if statutory timely mailing under § 7502 were disregarded, the taxpayer's extraordinary diligence establishes reasonable cause and an absence of willful neglect under 26 U.S.C. § 6699(a) and 26 C.F.R. § 301.6651-1(c), warranting complete penalty abatement.
 
----
 
 ## I. Factual Narrative of Timely Mailing and Postal Circumstances
 
@@ -47,7 +46,6 @@ The physical layout of the postal service counter made photographic capture impo
 
 I retained the $0.29 cash register receipt in my vehicle console as a precaution. For approximately 75 days, no communication, deficiency notice, or inquiry was received from the Service. Because an ordinary first-class mailing would typically generate an inquiry within 30 to 60 days if lost or misdirected, I reasonably concluded that the return had been received and processed without incident. In late May 2026, while cleaning out my vehicle, I discarded the small paper cash receipt.
 
----
 
 ## II. Subsequent Notice, Telephone Inquiries, and Administrative Inconsistencies
 
@@ -71,7 +69,6 @@ The underlying penalty calculation under 26 U.S.C. § 6699 contains an irreconci
 
 Under no statutory or factual interpretation can BlockTrans Syndicate be assessed for two shareholders. Even if late filing were assumed arguendo, the maximum monthly penalty under 26 U.S.C. § 6699 for a single-shareholder S corporation is $255.00, not $510.00.
 
----
 
 ## III. Statutory Scope of Taxpayer Recordkeeping (26 U.S.C. § 6001 vs. § 7502)
 
@@ -86,7 +83,6 @@ The Service's demand for the taxpayer to produce a "proof of postmark" or photog
 4. Certified and Registered Mail are Safe Harbors, Not Mandates:  
    While 26 U.S.C. § 7502(c) and 26 C.F.R. § 301.7502-1(c)(2) provide statutory safe harbors for registered and certified mail stubs, the Code nowhere prescribes registered or certified mail as the exclusive lawful method of depositing a return. Depositing first-class mail with prepaid postage on the statutory due date remains fully recognized under 26 U.S.C. § 7502(a).
 
----
 
 ## IV. The Service's Duty to Retain and Scan Envelopes (IRM § 3.10.72 & § 20.1.2)
 
@@ -99,7 +95,6 @@ While the Service demands that the taxpayer produce a postmark that was surrende
 
 If the Service asserts that the return was received on March 30, 2026, the Service was required under IRM § 3.10.72.6.2.2 to retain the envelope bearing the March 16, 2026 hand-cancellation. The taxpayer formally requests that the Service examine its own internal imaging archives, Documentum repositories, or intake jackets for the envelope scan associated with this return.
 
----
 
 ## V. Credibility of Firsthand Testimony and Taxpayer Rights
 
@@ -117,7 +112,6 @@ Where physical postmark impressions are lost, discarded by the Service, or quest
    - § 7803(a)(3)(J): *The Right to a Fair and Just Tax System.*  
    Rejecting a taxpayer's uncontradicted, sworn account of personal post-office delivery simply because the taxpayer cannot produce a photograph of a postal clerk's recessed desk violates the statutory mandate of § 7803(a)(3).
 
----
 
 ## VI. Reasonable Cause Relief Under 26 U.S.C. § 6699(a)
 
@@ -132,7 +126,6 @@ Even if the Service were to conclude that timely mailing under 26 U.S.C. § 7502
 
 This record represents the antithesis of willful neglect. Ordinary business care and prudence was exercised at every stage.
 
----
 
 ## VII. Conclusion and Requested Action
 
@@ -149,15 +142,12 @@ In good faith,
 BlockTrans Syndicate
 
 
----
-
 ## VIII. Documentary Evidence: Virtual Mailbox Intake Log
 
 The following record from PHYSICALADDRESS.COM, LLC confirms the late-June receipt of the Service's initial notice, corroborating why the physical postal receipt was discarded in ordinary course prior to notice delivery:
 
 ![Physical address documentation](physical-address.png)
 
----
 
 ## IX. Documentary Evidence: Original Timestamped Tax-Return Upload
 
