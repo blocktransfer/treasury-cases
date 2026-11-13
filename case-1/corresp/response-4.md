@@ -6,7 +6,7 @@ From: BlockTrans Syndicate / John Wooten
 Matter: Response to Letter 1382C (dated October 14, 2026) regarding Notice CP162A (Notice 0234109336)  
 Tax Form / Period: Form 1120-S (Tax Year 2025)  
 Submission Channel: IRS Document Upload Tool  
-Supporting Case Files: [https://wooten.link/_2](https://wooten.link/_2)  
+Supporting Case Files: [https://wooten.link/_2](https://wooten.link/_2)
 
 ---
 
@@ -128,7 +128,7 @@ Even if the Service were to conclude that timely mailing under 26 U.S.C. § 7502
 2. Ordinary Business Care and Prudence (26 C.F.R. § 301.6651-1(c)):  
    Under Treasury Regulations and IRM § 20.1.1.3.2, reasonable cause is demonstrated where the taxpayer exercised ordinary business care and prudence in attempting to satisfy the filing obligation. 
 3. Taxpayer’s Diligence:  
-   The taxpayer did not neglect the deadline. The return was prepared, weighed on a home scale, transported in person to the post office on the statutory due date, supplemented with additional paid postage, hand-canceled by a postal clerk, and tracked. The small cash receipt was preserved for 75 days and only discarded when no notice arrived. When the late-notice was received in late June, the taxpayer promptly called the Service, followed instructions to file Form 843, and has consistently maintained a sworn account. 
+   The taxpayer did not neglect the deadline. The return was prepared, weighed on a home scale, transported in person to the post office on the statutory due date, supplemented with additional paid postage, and hand-canceled by a postal clerk. The small cash receipt was preserved for 75 days and only discarded when no notice arrived. When the late-notice was received in late June, the taxpayer promptly called the Service, followed instructions to file Form 843, and has consistently maintained a sworn account.
 
 This record represents the antithesis of willful neglect. Ordinary business care and prudence was exercised at every stage.
 
