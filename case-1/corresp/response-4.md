@@ -59,7 +59,7 @@ Upon receiving the notice, I telephoned the Service on July 15, 2026, between 10
 - The representative stated that internal IRS systems reflected a receipt date of **May 27, 2026**.
 - However, the official IRS Account Transcript available at [https://wooten.link/_1](https://wooten.link/_1) establishes a recorded **"Received Date" of March 30, 2026**.
 
-A March 30, 2026 receipt date represents exactly nine business days (ten business days total) following a March 16, 2026 postmark—a standard transit interval for first-class mail routed to an IRS processing center. The telephone representative’s assertion of May 27, 2026 is entirely uncorroborated by the transcript and reflects an internal data-entry discrepancy within the Service.
+A March 30, 2026 receipt date represents exactly nine intervening business days following a March 16, 2026 postmark—a standard transit interval for first-class mail routed to an IRS processing center. The telephone representative’s assertion of May 27, 2026 is entirely uncorroborated by the transcript and reflects an internal data-entry discrepancy within the Service.
 
 ### C. Factual Error in Shareholder Count
 The underlying penalty calculation under 26 U.S.C. § 6699 contains an irreconcilable error:
