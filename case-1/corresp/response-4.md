@@ -6,7 +6,7 @@ From: BlockTrans Syndicate / John Wooten
 Matter: Response to Letter 1382C (dated October 14, 2026) regarding Notice CP162A (Notice 0234109336)  
 Tax Form / Period: Form 1120-S (Tax Year 2025)  
 Submission Channel: IRS Document Upload Tool  
-Supporting Case Files: [https://wooten.link/_2](https://wooten.link/_2)
+Supporting Case Files: https://wooten.link/_2
 
 ---
 
@@ -57,15 +57,15 @@ The mail-handling log from PHYSICALADDRESS.COM, LLC confirms that the Service's 
 ### B. Conflicting Service Records: March 30 vs. May 27
 Upon receiving the notice, I telephoned the Service on July 15, 2026, between 10:17 AM and 11:23 AM EDT. During this call:
 - The representative stated that internal IRS systems reflected a receipt date of May 27, 2026.
-- However, the official IRS Account Transcript available at [https://wooten.link/_1](https://wooten.link/_1) establishes a recorded "Received Date" of March 30, 2026.
+- However, the official IRS Account Transcript available at https://wooten.link/_1 establishes a recorded "Received Date" of March 30, 2026.
 
 A March 30, 2026 receipt date represents exactly nine intervening business days following a March 16, 2026 postmark—a standard transit interval for first-class mail routed to an IRS processing center. The telephone representative's assertion of May 27, 2026 is entirely uncorroborated by the transcript and reflects an internal data-entry discrepancy within the Service.
 
 ### C. Factual Error in Shareholder Count
 The underlying penalty calculation under 26 U.S.C. § 6699 contains an irreconcilable error:
 - Notice CP162A assesses a late-filing penalty of $510.00, calculated as two shareholders for one month at $255.00 per shareholder.
-- The IRS Account Transcript ([https://wooten.link/_1](https://wooten.link/_1)) lists the "Number of Shareholders" as zero (0).
-- The Filed Form 1120-S ([https://wooten.link/_4](https://wooten.link/_4), page 6) clearly reflects one (1) single reported shareholder.
+- The IRS Account Transcript (https://wooten.link/_1) lists the "Number of Shareholders" as zero (0).
+- The Filed Form 1120-S (https://wooten.link/_4, page 6) clearly reflects one (1) single reported shareholder.
 
 Under no statutory or factual interpretation can BlockTrans Syndicate be assessed for two shareholders. Even if late filing were assumed arguendo, the maximum monthly penalty under 26 U.S.C. § 6699 for a single-shareholder S corporation is $255.00, not $510.00.
 
@@ -151,4 +151,4 @@ The following record from PHYSICALADDRESS.COM, LLC confirms the late-June receip
 
 ## IX. Documentary Evidence: Original Timestamped Tax-Return Upload
 
-The original, timestamped upload of the corporation's 2025 tax-return materials is available at [https://wooten.link/_0](https://wooten.link/_0). I submit this contemporaneous record as additional documentary evidence for the chronology of the return. I request that the Service review the original uploaded materials and the date and time recorded with that upload alongside the Form 1120-S, the account transcript, and my firsthand account of presenting the return to the Postal Service for hand-cancellation on March 16, 2026.
+The original, timestamped upload of the corporation's 2025 tax-return materials is available at https://wooten.link/_0. I submit this contemporaneous record as additional documentary evidence for the chronology of the return. I request that the Service review the original uploaded materials and the date and time recorded with that upload alongside the Form 1120-S, the account transcript, and my firsthand account of presenting the return to the Postal Service for hand-cancellation on March 16, 2026.
