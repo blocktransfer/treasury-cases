@@ -1,6 +1,6 @@
 # Response 4: In re Letter 1382C, Notice 0234109336
 
-Date: November 12, 2026  
+Date: November 13, 2026  
 To: Internal Revenue Service  
 From: BlockTrans Syndicate / John Wooten  
 Matter: Response to Letter 1382C (dated October 14, 2026) regarding Notice CP162A (Notice 0234109336)  
@@ -14,7 +14,7 @@ Supporting Case Files: [https://wooten.link/_2](https://wooten.link/_2)
 
 I, John Wooten, hereby declare under penalty of perjury under the laws of the United States of America that the factual statements and narrative set forth herein regarding the mailing and filing of the 2025 Form 1120-S for BlockTrans Syndicate, as well as prior communications with the Internal Revenue Service, are true, correct, and complete to the best of my knowledge and firsthand recollection.
 
-Executed on November 12, 2026.
+Executed on November 13, 2026.
 
 ---
 
