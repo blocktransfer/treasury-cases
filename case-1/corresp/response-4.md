@@ -139,13 +139,13 @@ For the reasons established above, BlockTrans Syndicate respectfully requests th
 2. Correct the internal transcript discrepancy that misidentifies the corporation as having zero or two shareholders; and
 3. Fully abate and remove the $510.00 penalty assessed under 26 U.S.C. § 6699 along with all associated interest.
 
-Respectfully submitted,
 
-```
-______________________________________
-John Wooten
+In good faith,
+
+/s/John Wooten
+
 BlockTrans Syndicate
-```
+
 
 ---
 
