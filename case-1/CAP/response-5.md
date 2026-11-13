@@ -1,23 +1,33 @@
+# Response 5: Collection Appeal Concerning Operating-Account Fiscal Capacity
 
+November 13, 2026
 
-CC daoemn arg refs WL_5 at 10 ($46.38 average burn per moenth)
+To: Internal Revenue Service, Collection office handling the proposed levy  
+From: BlockTrans Syndicate, by John F. Wooten IV, Steward  
+Re: Proposed bank-account levy; Notice CP504B; Form 1120-S, tax year 2025  
+Purpose: Statement supporting a Collection Appeals Program (CAP) request (Form 9423, item 15)
 
+Dear Collection Manager:
 
-You say 60 days, you say 90 days, you then serve me
+BlockTrans Syndicate requests review of the proposed levy against its operating bank account on one distinct ground: whether taking funds needed for essential corporate expenses would undermine the Syndicate's ability to remain operational, meet its obligations, and resolve the outstanding account. This request concerns the appropriateness of the collection method in light of the corporation's limited financial capacity. The Syndicate has addressed the underlying assessment and the earlier correspondence separately; it does not repeat those arguments here.
 
-## Independent grounds for pursuing this Collection Appeals Program appeal
+The Syndicate must preserve sufficient liquidity to meet expenses that cannot simply be postponed. Its 2025 Statement of Profit, Loss, and Retained Earnings documents $556.53 in web-domain expenses and $430.63 in taxes and licenses. The domain expense alone equates to approximately $46.38 per month when averaged over the year, although renewals are payable on their actual due dates rather than evenly each month. These figures substantiate recurring categories of expense, but do not purport to establish the present account balance or the precise dates of forthcoming payments.
 
-The Syndicate requests review of the appropriateness of a levy against the funds in its operating bank account. This appeal is not merely an objection to the processing of a collection action, nor does it depend entirely on resolution of the disputed underlying liability. The proposed means of collection poses a distinct, concrete threat to the Syndicate's ability to meet ordinary corporate obligations as they become due. Seizing the available operating funds would leave the Syndicate unable to make routine payments that cannot always be deferred until a tax controversy is resolved.
+Domain renewals protect websites, communications, and other organizational assets. A missed renewal can interrupt services or result in loss of a domain and costly or uncertain recovery. Similarly, delayed payment of state franchise taxes or other required charges can generate additional fees, interest, or compliance problems. A levy that consumes the funds reserved for these time-sensitive obligations could therefore impose costs beyond the amount collected and diminish the Syndicate's ability to satisfy its obligations, including any amount ultimately determined to be due to the Service.
 
-Two examples are particularly important:
+Under 26 USC 6343(a)(1)(B), release of a levy may be required where the Service determines that release will facilitate collection. CAP review also considers the appropriateness of collection action under applicable law, policy, procedures, and the relevant circumstances. See IRM 8.24.1.3. The Syndicate asks for that collection-focused assessment, not the individual-taxpayer living-expense hardship remedy under 26 CFR 301.6343-1(b)(4).
 
-- **Renewal of valuable domain names.** Domain registrations must be renewed on their own deadlines. If the Syndicate cannot pay a renewal charge, a domain used for its websites, communications, or records may lapse; recovery can be costly, uncertain, or impossible. The resulting loss can be much greater than the renewal fee itself.
-- **Timely payment of franchise taxes and related obligations.** State franchise taxes and other corporate compliance charges have fixed deadlines. Inability to pay on time can trigger late fees, interest, or additional administrative expense. A levy that prevents payment of one obligation can therefore generate new liabilities to other authorities rather than merely redirecting existing cash to the IRS.
+Accordingly, the Syndicate requests that Collection defer the proposed levy while promptly reviewing its present operating funds and near-term obligations, and consider a collection alternative that preserves enough liquidity for essential renewals and compliance payments. If a levy has already been served, the Syndicate requests consideration of a partial or full release to the extent release would facilitate collection. The Syndicate is willing to provide current bank records, payment schedules, renewal notices, and other reasonably necessary financial documentation for that review.
 
-This concern reflects the Syndicate's actual experience, not just a speculative risk. In a prior year, a franchise-tax obligation was paid late, increasing the total cost of meeting that obligation. The Syndicate's [2025 Statement of Profit, Loss, and Retained Earnings](https://wooten.link/_3) reports **$430.63 in Taxes and Licenses** and **$556.53 in Web Domains**. The statement establishes that these are genuine categories of business expense; it does **not**, standing alone, identify the amount of any particular late fee, prove which year the franchise-tax delay occurred, or establish that a levy caused the earlier delay. Payment records and state assessments can document those details separately.
+Please arrange review by the Collection manager if it has not yet occurred. If the matter remains unresolved after that review, please forward this request and its supporting materials to the IRS Independent Office of Appeals under CAP. The Syndicate requests that any requests for information and the resulting decision be communicated in writing.
 
-The practical problem is one of timing and collectability. Seizing operating cash to collect one asserted debt can cause the Syndicate to miss unrelated deadlines, lose valuable organizational assets, and incur avoidable penalties. Those added expenses reduce rather than preserve its resources for complying with tax obligations and resolving the disputed account. The Syndicate therefore has a substantial reason to pursue this appeal even apart from its objections to the assessments: avoiding a collection method that could create further financial and compliance problems without improving the government's ultimate recovery.
+Respectfully,
 
-Under [IRM 8.24.1.3.8](https://www.irs.gov/irm/part8/irm_08-024-001), CAP review considers whether the collection action is appropriate under applicable law, policy, and procedures in light of the relevant facts and circumstances; Appeals may direct corrective action, including release of a levy. [26 USC 6343(a)(1)(B)](https://uscode.house.gov/us/usc/119-136/t26/s6343/) also provides for release where release would facilitate collection of the liability. This is an argument about the appropriateness and consequences of this particular collection action, **not** an assertion of automatic corporate entitlement to the individual-taxpayer economic-hardship remedy; compare [*Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. No. 9 (2017)](https://www.courtlistener.com/opinion/4563370/lindsay-manor-nursing-home-inc-v-commr/).
+John F. Wooten IV  
+Steward, BlockTrans Syndicate
 
-Accordingly, the Syndicate requests that Appeals consider the impending renewal and tax deadlines, the limited funds available for timely operating payments, the foreseeable costs of nonpayment, and whether declining, deferring, or releasing the bank-account levy would better preserve the Syndicate's ability to comply and pay. If a levy has already been served, the Syndicate requests consideration of its release to the extent authorized. The requested determination concerns this collection action and does not waive any separate rights to dispute the underlying liability in an appropriate proceeding.
+Signature: ______________________________  
+Date signed: ____________________________
+
+Supporting financial exhibit: BlockTrans Syndicate's 2025 Statement of Profit, Loss, and Retained Earnings  
+https://wooten.link/_3
