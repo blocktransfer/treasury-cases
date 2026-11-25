@@ -3,9 +3,13 @@ title: Collection Appeal Request, Box 15 — Additional Pages
 means: via Document Upload Tool
 ```
 
-## Relief sought and scope of appeal
+> Taxpayer: BlockTrans Syndicate  
+> EIN: [Insert on private submission copy]  
+> Tax period: 2025 (Form 1120-S)  
+> Related notice: CP504B  
+> Original CAP request filed: November 16, 2026
 
-Dear Independent Office of Appeals:
+## Relief sought and scope of appeal
 
 The Syndicate requests review of the appropriateness of a proposed or actual levy against its operating bank account. It requests that Collection refrain from proceeding with the levy, or release the levy in whole or in relevant part if already served and release remains available, where doing so would better preserve its ability to meet its obligations and satisfy any properly determined federal tax liability.
 
