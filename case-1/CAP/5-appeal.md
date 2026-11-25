@@ -1,11 +1,7 @@
-# Form 9423, Box 15 — Additional Pages
-
-> Taxpayer: BlockTrans Syndicate  
-> Original CAP request filed: November 16, 2026  
-> Subject: Appropriateness of collection by levy on the Syndicate's operating bank account  
-> Related submission: [Form 9423](f9423.pdf)
->
-> *Expanded working draft of the grounds for the November 16 appeal; not a representation that this expanded text was submitted on that date.*
+```
+title: Collection Appeal Request, Box 15 — Additional Pages
+means: via Document Upload Tool
+```
 
 ## Relief sought and scope of appeal
 
