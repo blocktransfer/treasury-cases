@@ -1,6 +1,3 @@
-# Response 5: Collection Appeals Program
-Related submission: [Form 9423](f9423.pdf)
-
 
 ## Relief sought and scope of appeal
 
