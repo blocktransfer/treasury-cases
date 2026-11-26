@@ -4,6 +4,13 @@ means: via Document Upload Tool
 date: 26 Nov 2026
 ```
 
+#### Addressee
+
+Internal Revenue Service
+Independent Office of Appeals
+Collection Appeals Program
+
+
 ## Relief sought and scope of appeal
 
 The taxpayer requests review of the appropriateness of a proposed or actual levy against its operating bank account. It requests that Collection refrain from proceeding with the levy, or release the levy in whole or in relevant part if already served and release remains available, where doing so would better preserve its ability to meet its obligations and satisfy any properly determined federal tax liability.
