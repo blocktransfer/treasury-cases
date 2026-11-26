@@ -9,10 +9,7 @@ date: 26 Nov 2026
 Department of the Treasury  
 Internal Revenue Service  
 Attn: Collection Appeals Program  
-Ogden, UT 84201-0038
-
-Re: Form 1120-S (Tax Year 2025)  
-Notice CP504B — November 9, 2026
+Ogden, UT 84201-003
 
 ## Relief sought and scope of appeal
 
