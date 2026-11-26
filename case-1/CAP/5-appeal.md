@@ -49,13 +49,13 @@ This concern reflects the taxpayer's actual experience. In a prior year, a franc
 
 The prior delay illustrates why payment timing matters independently of the merits of the federal assessment.
 
-### Liquidity, expenses, and ultimate collectability
+## Financial ability to pay
 
-The relevant issue is not simply the aggregate historical value of the taxpayer's assets, but the amount of unrestricted cash available when obligations must actually be paid. Historical expense totals are not interchangeable with cash on hand, and an annual average is not a forecast of the amount required in a month containing a renewal or tax deadline.
+The taxpayer's 2025 Form 1120-S Tax Return Transcript, dated October 26, 2026 (pp. 1–2), reports no gross receipts, $1,000 in other income, $1,696 in total deductions, and an ordinary loss of $696 for the tax year. The return reports $17,505 in total assets at year-end, but the value of those assets does not establish the amount of cash available to pay the disputed $510 penalty. In particular, the taxpayer's long-term domain assets are not equivalent to unrestricted operating cash.
 
-The taxpayer requests consideration of its current bank balances, available receipts, documented upcoming obligations, and the foreseeable cost of missing their deadlines. It is prepared to substantiate these matters with relevant financial records. Where the evidence shows that taking operating funds now would generate additional expenses or impair the corporation's ability to pay later, preserving the necessary amount would serve the government's collection interest.
+The taxpayer's historical operating results show that its reported expenses exceeded its income in 2025. An assessment of its present ability to pay should therefore consider its actual current bank balances, anticipated receipts, assets that can reasonably be converted to cash, and necessary expenses as they become due, rather than assume that historical asset values represent funds available for immediate collection. The taxpayer is prepared to substantiate its current financial position with bank statements and other relevant financial records.
 
-The taxpayer does not request a permanent exemption for operating cash, a blanket prohibition on collection, or a determination that every business expense takes priority over federal liabilities. It requests a case-specific determination of whether this particular levy, at this time and for this amount, is appropriate.
+The taxpayer requests that Appeals determine whether it can pay the disputed assessment in full at this time without impairing its ability to meet necessary obligations and whether collecting the entire amount immediately would make eventual collection more difficult. Where the evidence supports it, the taxpayer requests that sufficient operating funds be preserved. This request does not seek a permanent exemption from collection or concede the validity or amount of the underlying assessment.
 
 ## Applicable collection standards
 
