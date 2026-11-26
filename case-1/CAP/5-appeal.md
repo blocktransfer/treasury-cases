@@ -105,29 +105,29 @@ Respectfully submitted,
 
 BlockTrans Syndicate
 
-[^response-1382c]: Taxpayer's November 13, 2026 response to Letter 1382C. _Available at_ <https://github.com/blocktransfer/treasury-cases/blob/eb265c6b2eac897f1f18bcc8e64e2fcab396e3d5/case-1/corresp/response-4.md>.
+[^response-1382c]: Taxpayer's November 13, 2026 response to Letter 1382C, _available at_ https://github.com/blocktransfer/treasury-cases/blob/eb265c6b2eac897f1f18bcc8e64e2fcab396e3d5/case-1/corresp/response-4.md.
 
-[^transfer-agent-registration]: Transfer-agent registration filing with the Commission. _Available at_ <https://www.sec.gov/Archives/edgar/data/1846058/000184605826000008/xslFTA1X01/primary_doc.xml>.
+[^transfer-agent-registration]: Transfer-agent registration filing with the Commission, _available at_ https://www.sec.gov/Archives/edgar/data/1846058/000184605826000008/xslFTA1X01/primary_doc.xml.
 
-[^form-8822b]: Form 8822-B, Change of Address or Responsible Party — Business. _Available at_ <https://github.com/blocktransfer/treasury-cases/blob/eb265c6b2eac897f1f18bcc8e64e2fcab396e3d5/case-1/corresp/f8822b.pdf>.
+[^form-8822b]: Form 8822-B, Change of Address or Responsible Party — Business, _available at_ https://github.com/blocktransfer/treasury-cases/blob/eb265c6b2eac897f1f18bcc8e64e2fcab396e3d5/case-1/corresp/f8822b.pdf.
 
-[^2025-return-assets]: 2025 Form 1120-S, wooten.link/_4 at 9, fair market value of assets. _Available at_ <https://wooten.link/_4>.
+[^2025-return-assets]: 2025 Form 1120-S, wooten.link/_4 at 9, fair market value of assets, _available at_ https://wooten.link/_4.
 
-[^2025-domain-expenses]: 2025 Statement of Profit, Loss, and Retained Earnings, wooten.link/_4 at 10, Web Domains. _Available at_ <https://wooten.link/_4>.
+[^2025-domain-expenses]: 2025 Statement of Profit, Loss, and Retained Earnings, wooten.link/_4 at 10, Web Domains, _available at_ https://wooten.link/_4.
 
-[^2025-taxes-and-licenses]: 2025 Statement of Profit, Loss, and Retained Earnings, wooten.link/_4 at 10, Taxes and Licenses and Web Domains. _Available at_ <https://wooten.link/_4>.
+[^2025-taxes-and-licenses]: 2025 Statement of Profit, Loss, and Retained Earnings, wooten.link/_4 at 10, Taxes and Licenses and Web Domains, _available at_ https://wooten.link/_4.
 
-[^bank-account-balance]: Taxpayer's operating bank-account screenshot. _Available at_ <https://github.com/blocktransfer/treasury-cases/blob/fbc62311a81ff0c8052bdc9c6a65bf32d9303dd2/case-1/CAP/statement.png>.
+[^bank-account-balance]: Taxpayer's operating bank-account screenshot, _available at_ https://github.com/blocktransfer/treasury-cases/blob/fbc62311a81ff0c8052bdc9c6a65bf32d9303dd2/case-1/CAP/statement.png.
 
-[^irm-cap-review]: IRM 8.24.1.2 and 8.24.1.3.8, Collection Appeals Program review. _Available at_ <https://www.irs.gov/irm/part8/irm_08-024-001>.
+[^irm-cap-review]: IRM 8.24.1.2 and 8.24.1.3.8, Collection Appeals Program review, _available at_ https://www.irs.gov/irm/part8/irm_08-024-001.
 
-[^usc-levy-release]: 26 USC 6343(a)(1)(B), release of levy to facilitate collection. _Available at_ <https://uscode.house.gov/us/usc/119-136/t26/s6343/>.
+[^usc-levy-release]: 26 USC 6343(a)(1)(B), release of levy to facilitate collection, _available at_ https://uscode.house.gov/us/usc/119-136/t26/s6343/.
 
-[^cfr-levy-release]: 26 CFR 301.6343-1(b)(2), release of levy to facilitate collection. _Available at_ <https://www.ecfr.gov/current/title-26/section-301.6343-1>.
+[^cfr-levy-release]: 26 CFR 301.6343-1(b)(2), release of levy to facilitate collection, _available at_ https://www.ecfr.gov/current/title-26/section-301.6343-1.
 
-[^irm-cap-collection-stay]: IRM 5.1.9.4, Collection Appeals Program procedures. _Available at_ <https://www.irs.gov/irm/part5/irm_05-001-009>.
+[^irm-cap-collection-stay]: IRM 5.1.9.4, Collection Appeals Program procedures, _available at_ https://www.irs.gov/irm/part5/irm_05-001-009.
 
-[^irm-bank-levy]: IRM 5.11.4, bank levies and the 21-day holding period. _Available at_ <https://www.irs.gov/irm/part5/irm_05-011-004>.
+[^irm-bank-levy]: IRM 5.11.4, bank levies and the 21-day holding period, _available at_ https://www.irs.gov/irm/part5/irm_05-011-004.
 
 ---
 
@@ -141,6 +141,6 @@ BlockTrans Syndicate
 - Keep any distinct CDP deadlines and remedies separate; do not assume a CAP request preserves a CDP hearing deadline or confers judicial review.
 - Citation correction: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. No. 9 (2017)[^lindsay-manor-opinion] was vacated on mootness grounds on appeal, No. 17-9002 (10th Cir. Mar. 27, 2018).[^lindsay-manor-vacatur] Do not rely on that vacated decision as precedent. The working appeal instead rests on the current regulation and the separate statutory facilitation-of-collection ground.
 
-[^lindsay-manor-opinion]: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. No. 9 (2017), vacated. _Available at_ <https://www.courtlistener.com/opinion/4563370/lindsay-manor-nursing-home-inc-v-commr/>.
+[^lindsay-manor-opinion]: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. No. 9 (2017), vacated, _available at_ https://www.courtlistener.com/opinion/4563370/lindsay-manor-nursing-home-inc-v-commr/.
 
-[^lindsay-manor-vacatur]: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, No. 17-9002 (10th Cir. Mar. 27, 2018), vacatur on mootness grounds. _Available at_ <https://law.justia.com/cases/federal/appellate-courts/ca10/17-9002/17-9002-2018-03-27.html>.
+[^lindsay-manor-vacatur]: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, No. 17-9002 (10th Cir. Mar. 27, 2018), vacatur on mootness grounds, _available at_ https://law.justia.com/cases/federal/appellate-courts/ca10/17-9002/17-9002-2018-03-27.html.
