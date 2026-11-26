@@ -9,7 +9,7 @@ date: 26 Nov 2026
 Department of the Treasury  
 Internal Revenue Service  
 Attn: Collection Appeals Program  
-Ogden, UT 84201-003
+Ogden, UT 84201-0038
 
 ## Relief sought and scope of appeal
 
