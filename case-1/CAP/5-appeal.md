@@ -1,6 +1,7 @@
 ```
 title: Collection Appeal Request, Box 15 — Additional Pages
 means: via Document Upload Tool
+date: 26 Nov 2026
 ```
 
 > Original CAP request filed: November 16, 2026
