@@ -30,6 +30,10 @@ The Syndicate requests that Appeals examine the applicable correspondence, accou
 
 The Syndicate does not contend that a pending abatement claim or a general estimate of processing time automatically creates a statutory prohibition on levy. Rather, it requests a determination based on the actual nature of the Service's representations, any account-specific collection hold, and the requirements applicable to this case. If Collection proceeded inconsistently with an applicable hold or procedure, the Syndicate requests the corresponding corrective action.
 
+## Change of address
+
+The Syndicate has changed its address. The updated address is identified in its [transfer-agent registration filing with the Commission](https://www.sec.gov/Archives/edgar/data/1846058/000184605826000008/xslFTA1X01/primary_doc.xml). The Syndicate requests confirmation that the Service has processed its [Form 8822-B](../corresp/f8822b.pdf) and updated the address on its records, and that all further correspondence concerning this appeal be directed to the current mailing address. The Commission filing is provided as corroborating documentation of the address change, not as evidence that the Service has processed it.
+
 ## Independent grounds for opposing the levy
 
 The proposed means of collection poses a distinct threat to the Syndicate's ability to meet ordinary corporate obligations as they become due. Even if the assessment were correct, depriving the corporation of operating cash could cause costs substantially out of proportion to the immediate benefit of collection.
