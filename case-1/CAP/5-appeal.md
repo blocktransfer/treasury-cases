@@ -3,10 +3,6 @@ title: Collection Appeal Request, Box 15 — Additional Pages
 means: via Document Upload Tool
 ```
 
-> Taxpayer: BlockTrans Syndicate  
-> EIN: [Insert on private submission copy]  
-> Tax period: 2025 (Form 1120-S)  
-> Related notice: CP504B  
 > Original CAP request filed: November 16, 2026
 
 ## Relief sought and scope of appeal
