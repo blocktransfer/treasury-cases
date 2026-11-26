@@ -9,7 +9,7 @@ means: via Document Upload Tool
 
 The Syndicate requests review of the appropriateness of a proposed or actual levy against its operating bank account. It requests that Collection refrain from proceeding with the levy, or release the levy in whole or in relevant part if already served and release remains available, where doing so would better preserve its ability to meet its obligations and satisfy any properly determined federal tax liability.
 
-This appeal has an independent basis even if the Service ultimately sustains the underlying assessment. It concerns the timing, manner, and consequences of the collection action rather than a request that Appeals redetermine the penalty through the Collection Appeals Program (CAP). The Syndicate separately disputes the 2025 Form 1120-S late-filing penalty in its [November 13 response to Letter 1382C](../corresp/response-4.md). That dispute and all independently available review rights are expressly reserved; nothing in this appeal concedes the validity or amount of the assessment.
+This appeal has an independent basis even if the Service ultimately sustains the underlying assessment. It concerns the timing, manner, and consequences of the collection action rather than a request that Appeals redetermine the penalty through the Collection Appeals Program (CAP). The Syndicate separately disputes the 2025 Form 1120-S late-filing penalty in its [November 13 response to Letter 1382C](https://github.com/blocktransfer/treasury-cases/blob/eb265c6b2eac897f1f18bcc8e64e2fcab396e3d5/case-1/corresp/response-4.md). That dispute and all independently available review rights are expressly reserved; nothing in this appeal concedes the validity or amount of the assessment.
 
 ## Collection while the Service is considering the taxpayer's submissions
 
@@ -28,7 +28,7 @@ The Syndicate does not contend that a pending abatement claim or a general estim
 
 ## Change of address
 
-The Syndicate has changed its address. The updated address is identified in its [transfer-agent registration filing with the Commission](https://www.sec.gov/Archives/edgar/data/1846058/000184605826000008/xslFTA1X01/primary_doc.xml). The address change is not yet reflected in the Syndicate's current IRS account transcript. The Syndicate requests that the Service process its [Form 8822-B](../corresp/f8822b.pdf), confirm when its records have been updated, and direct all further correspondence concerning this appeal to the current mailing address. The Commission filing is provided as corroborating documentation of the address change, not as evidence that the Service has processed it.
+The Syndicate has changed its address. The updated address is identified in its [transfer-agent registration filing with the Commission](https://www.sec.gov/Archives/edgar/data/1846058/000184605826000008/xslFTA1X01/primary_doc.xml). The address change is not yet reflected in the Syndicate's current IRS account transcript. The Syndicate requests that the Service process its [Form 8822-B](https://github.com/blocktransfer/treasury-cases/blob/eb265c6b2eac897f1f18bcc8e64e2fcab396e3d5/case-1/corresp/f8822b.pdf), confirm when its records have been updated, and direct all further correspondence concerning this appeal to the current mailing address. The Commission filing is provided as corroborating documentation of the address change, not as evidence that the Service has processed it.
 
 ## Independent grounds for opposing the levy
 
