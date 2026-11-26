@@ -35,10 +35,6 @@ The taxpayer requests that Appeals examine the applicable correspondence, accoun
 
 The taxpayer does not contend that a pending abatement claim or a general estimate of processing time automatically creates a statutory prohibition on levy. Rather, it requests a determination based on the actual nature of the Service's representations, any account-specific collection hold, and the requirements applicable to this case. If Collection proceeded inconsistently with an applicable hold or procedure, the taxpayer requests the corresponding corrective action.
 
-## Change of address
-
-The taxpayer has changed its address. The updated address is identified in its transfer-agent registration filing with the Commission[^transfer-agent-registration]. The address change is not yet reflected in the taxpayer's current IRS account transcript. The taxpayer requests that the Service process its Form 8822-B[^form-8822b], confirm when its records have been updated, and direct all further correspondence concerning this appeal to the current mailing address. The Commission filing is provided as corroborating documentation of the address change, not as evidence that the Service has processed it.
-
 ## Independent grounds for opposing the levy
 
 The proposed means of collection poses a distinct threat to the taxpayer's ability to meet ordinary corporate obligations as they become due. Even if the assessment were correct, depriving the corporation of operating cash could cause costs substantially out of proportion to the immediate benefit of collection.
@@ -103,6 +99,10 @@ For the foregoing reasons, the taxpayer respectfully requests that Appeals:
 4. Identify the current status of collection, the basis for the determination, and any corrective action directed, and communicate the result in writing.
 
 The taxpayer remains willing to furnish the relevant documentation and to address any properly established liability through the appropriate procedures. It requests that the Service not impose avoidable additional costs while resolving the disputed account.
+
+## Confirmation of updated mailing address
+
+The taxpayer has changed its corporate address, as reflected in its transfer-agent registration filing with the Commission[^transfer-agent-registration]. The updated address is not yet reflected in the taxpayer's IRS account transcript. The taxpayer requests that the Service process its Form 8822-B[^form-8822b] and confirm in writing that its records have been updated and that all subsequent notices and correspondence will be mailed to the new corporate address, so that the taxpayer may receive them and respond within the applicable deadlines. The Commission filing corroborates the address change but does not establish that the Service has processed it.
 
 Respectfully submitted,
 
