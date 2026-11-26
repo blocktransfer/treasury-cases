@@ -67,7 +67,7 @@ The taxpayer recognizes that CAP does not provide a general forum to negotiate a
 
 ### Release to facilitate collection
 
-Under 26 USC 6343(a)(1)(B),[^8] the Service must release all or the necessary part of a levy if it determines that doing so will help it collect the outstanding tax liability. 26 CFR 301.6343-1(b)(2)[^9] implements this requirement and allows release on terms appropriate to the circumstances. In practical terms, taking money from the taxpayer now may make it harder for the Service to collect later if the loss of operating funds causes valuable assets to be lost or additional liabilities to arise. The taxpayer asks the Service to consider whether preserving sufficient funds to meet these time-sensitive obligations would improve its ability to collect any amount ultimately determined to be due.
+Under 26 USC 6343(a)(1)(B)[^8] and 26 CFR 301.6343-1(b)(2),[^9] the Service must release all or part of a levy if it determines that doing so will help it collect the tax liability, rather than make eventual payment more difficult.
 
 This provision supplies a collection-oriented basis for relief separate from the individual economic-hardship provision in 26 USC 6343(a)(1)(D). The taxpayer is a corporation and does not claim entitlement to relief under the reasonable-basic-living-expenses standard in 26 CFR 301.6343-1(b)(4)(i). Instead, it requests consideration of whether a full or partial release would facilitate collection by preventing otherwise avoidable costs and preserving the resources needed for compliance and payment.
 
