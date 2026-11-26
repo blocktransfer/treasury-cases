@@ -55,7 +55,7 @@ The taxpayer's 2025 Form 1120-S Tax Return Transcript, dated October 26, 2026 (p
 
 Although the taxpayer may be able to sell some of its Stellar Lumens, doing so solely to pay the disputed penalty at presently unfavorable market prices would, in the taxpayer's judgment, sacrifice the value of a long-term investment to satisfy an immediate collection demand. The taxpayer asks Appeals to consider the net proceeds actually obtainable from a sale, the resulting economic cost, and whether requiring liquidation now would unnecessarily impair its ability to meet its future obligations, including any federal liability ultimately determined to be due.
 
-The taxpayer's historical operating results show that its reported expenses exceeded its income in 2025. An assessment of its present ability to pay should therefore consider its actual current bank balances, anticipated receipts, assets that can reasonably be converted to cash, and necessary expenses as they become due, rather than assume that historical asset values represent funds available for immediate collection. The taxpayer is prepared to substantiate its current financial position with bank statements and other relevant financial records.
+The taxpayer's historical operating results show that its reported expenses exceeded its income in 2025. An assessment of its present ability to pay should therefore consider its actual current bank balances, anticipated receipts, assets that can reasonably be converted to cash, and necessary expenses as they become due, rather than assume that historical asset values represent funds available for immediate collection. The taxpayer provides a screenshot of its operating bank account showing a balance of approximately $334.[^7] This amount is already less than the disputed $510 penalty, even before accounting for necessary operating expenses. Paying the penalty in full from that account alone is therefore not possible on the balance shown.
 
 The taxpayer requests that Appeals determine whether it can pay the disputed assessment in full at this time without impairing its ability to meet necessary obligations and whether collecting the entire amount immediately would make eventual collection more difficult. Where the evidence supports it, the taxpayer requests that sufficient operating funds be preserved. This request does not seek a permanent exemption from collection or concede the validity or amount of the underlying assessment.
 
@@ -63,13 +63,13 @@ The taxpayer requests that Appeals determine whether it can pay the disputed ass
 
 ### Scope of CAP review
 
-Under IRM 8.24.1.2 and 8.24.1.3.8,[^7] Appeals must consider whether the proposed or existing levy is appropriate in light of the applicable law, regulations, policy, procedures, and the facts of this case. The taxpayer asks Appeals to consider whether taking money from its operating account now would undermine the Service's ability to collect the liability later, and to direct corrective action if the levy is inappropriate.
+Under IRM 8.24.1.2 and 8.24.1.3.8,[^8] Appeals must consider whether the proposed or existing levy is appropriate in light of the applicable law, regulations, policy, procedures, and the facts of this case. The taxpayer asks Appeals to consider whether taking money from its operating account now would undermine the Service's ability to collect the liability later, and to direct corrective action if the levy is inappropriate.
 
 The taxpayer recognizes that CAP does not provide a general forum to negotiate alternative collection arrangements or determine the underlying liability. Any separate installment agreement or other collection alternative would be a matter for Collection under the relevant procedures. The availability of such arrangements may be relevant to the appropriateness of the action under review, but the relief sought here concerns the levy itself.
 
 ### Release to facilitate collection
 
-Under 26 USC 6343(a)(1)(B)[^8] and 26 CFR 301.6343-1(b)(2),[^9] the Service must release all or part of a levy if it determines that doing so will help it collect the tax liability, rather than make eventual payment more difficult.
+Under 26 USC 6343(a)(1)(B)[^9] and 26 CFR 301.6343-1(b)(2),[^10] the Service must release all or part of a levy if it determines that doing so will help it collect the tax liability, rather than make eventual payment more difficult.
 
 This provision supplies a collection-oriented basis for relief separate from the individual economic-hardship provision in 26 USC 6343(a)(1)(D). The taxpayer is a corporation and does not claim entitlement to relief under the reasonable-basic-living-expenses standard in 26 CFR 301.6343-1(b)(4)(i). Instead, it requests consideration of whether a full or partial release would facilitate collection by preventing otherwise avoidable costs and preserving the resources needed for compliance and payment.
 
@@ -77,9 +77,9 @@ For a levy that has not yet been served, the same practical considerations suppo
 
 ## Preservation of the status quo pending review
 
-The taxpayer requests prompt confirmation of the status of the CAP request and any applicable collection stay. IRM 5.1.9.4[^10] contains procedural conditions governing CAP requests in field collection, including circumstances under which collection may resume. The taxpayer requests that the Service identify the procedures applicable to the office handling this case and observe any stay required by those procedures.
+The taxpayer requests prompt confirmation of the status of the CAP request and any applicable collection stay. IRM 5.1.9.4[^11] contains procedural conditions governing CAP requests in field collection, including circumstances under which collection may resume. The taxpayer requests that the Service identify the procedures applicable to the office handling this case and observe any stay required by those procedures.
 
-If a levy has already been served on a qualifying bank, the taxpayer requests immediate confirmation of the service date, amount held, and anticipated surrender date. IRM 5.11.4[^11] describes the 21-calendar-day holding period under 26 USC 6332(c). If funds have not yet been surrendered, the taxpayer asks Collection to coordinate with the bank and Appeals promptly regarding any authorized release or extension of the holding period. The holding period is not itself a release, and this appeal is not assumed to extend it automatically.
+If a levy has already been served on a qualifying bank, the taxpayer requests immediate confirmation of the service date, amount held, and anticipated surrender date. IRM 5.11.4[^12] describes the 21-calendar-day holding period under 26 USC 6332(c). If funds have not yet been surrendered, the taxpayer asks Collection to coordinate with the bank and Appeals promptly regarding any authorized release or extension of the holding period. The holding period is not itself a release, and this appeal is not assumed to extend it automatically.
 
 If funds have already been surrendered, the taxpayer requests identification of the applicable procedure, if any, for challenging the collection or seeking return of the proceeds. It does not assume that CAP or a request for release provides a remedy after remittance.
 
@@ -110,15 +110,17 @@ BlockTrans Syndicate
 
 [^6]: _Available at_ <https://wooten.link/_4>.
 
-[^7]: _Available at_ <https://www.irs.gov/irm/part8/irm_08-024-001>.
+[^7]: Bank-account screenshot. _Available at_ <https://github.com/blocktransfer/treasury-cases/blob/fbc62311a81ff0c8052bdc9c6a65bf32d9303dd2/case-1/CAP/statement.png>.
 
-[^8]: _Available at_ <https://uscode.house.gov/us/usc/119-136/t26/s6343/>.
+[^8]: _Available at_ <https://www.irs.gov/irm/part8/irm_08-024-001>.
 
-[^9]: _Available at_ <https://www.ecfr.gov/current/title-26/section-301.6343-1>.
+[^9]: _Available at_ <https://uscode.house.gov/us/usc/119-136/t26/s6343/>.
 
-[^10]: _Available at_ <https://www.irs.gov/irm/part5/irm_05-001-009>.
+[^10]: _Available at_ <https://www.ecfr.gov/current/title-26/section-301.6343-1>.
 
-[^11]: _Available at_ <https://www.irs.gov/irm/part5/irm_05-011-004>.
+[^11]: _Available at_ <https://www.irs.gov/irm/part5/irm_05-001-009>.
+
+[^12]: _Available at_ <https://www.irs.gov/irm/part5/irm_05-011-004>.
 
 ---
 
@@ -126,12 +128,12 @@ BlockTrans Syndicate
 
 - Confirm the exact language, dates, source, and subject of the 60-day and 90-day representations; obtain the corresponding letters and collection history. The repository does not establish that either representation was an enforceable promise to suspend collection.
 - Confirm the CAP receipt, any managerial conference, collection office, notice identifiers, tax periods covered, whether a levy was actually served, the service date and bank surrender status. The existing file records November 16 as the original filing date; no new filing is represented here.
-- Obtain the current operating balance and unrestricted cash, dated domain-renewal invoices, franchise-tax due dates and charges, prior late-fee documentation, and any other necessary business expenses. Quantify the minimum cash needed and explain how retaining it facilitates eventual payment. Confirm the 2025 balance-sheet allocation to Stellar Lumens and obtain current holdings, market quotations, acquisition costs, and estimated net liquidation proceeds to substantiate the asserted disadvantage of selling now.
+- Confirm the date of the supplied bank-account screenshot, whether the approximately $334 balance remains current, and whether any additional unrestricted cash is available; obtain dated domain-renewal invoices, franchise-tax due dates and charges, prior late-fee documentation, and any other necessary business expenses. Quantify the minimum cash needed and explain how retaining it facilitates eventual payment. Confirm the 2025 balance-sheet allocation to Stellar Lumens and obtain current holdings, market quotations, acquisition costs, and estimated net liquidation proceeds to substantiate the asserted disadvantage of selling now.
 - Confirm the cited financial-statement pages in WL_4 before submission: page 9 (at least $2,250 in long-term web-domain assets) and page 10 ($556.53 in annual web-domain expenses). The shortlink could not be independently retrieved during this revision; the page references and asset amount are supplied by the taxpayer. The monthly expense computation has been checked. Retain dated renewal invoices to substantiate actual upcoming payments.
 - Request access to the nonprivileged administrative file where applicable under 26 USC 7803(e)(7) and IRM 8.24.1.3.1, without assuming the statutory advance-access requirements apply to every corporate taxpayer.
 - Keep any distinct CDP deadlines and remedies separate; do not assume a CAP request preserves a CDP hearing deadline or confers judicial review.
-- Citation correction: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. No. 9 (2017)[^12] was vacated on mootness grounds on appeal, No. 17-9002 (10th Cir. Mar. 27, 2018)[^13]. Do not rely on that vacated decision as precedent. The working appeal instead rests on the current regulation and the separate statutory facilitation-of-collection ground.
+- Citation correction: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. No. 9 (2017)[^13] was vacated on mootness grounds on appeal, No. 17-9002 (10th Cir. Mar. 27, 2018)[^14]. Do not rely on that vacated decision as precedent. The working appeal instead rests on the current regulation and the separate statutory facilitation-of-collection ground.
 
-[^12]: _Available at_ <https://www.courtlistener.com/opinion/4563370/lindsay-manor-nursing-home-inc-v-commr/>.
+[^13]: _Available at_ <https://www.courtlistener.com/opinion/4563370/lindsay-manor-nursing-home-inc-v-commr/>.
 
-[^13]: _Available at_ <https://law.justia.com/cases/federal/appellate-courts/ca10/17-9002/17-9002-2018-03-27.html>.
+[^14]: _Available at_ <https://law.justia.com/cases/federal/appellate-courts/ca10/17-9002/17-9002-2018-03-27.html>.
