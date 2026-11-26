@@ -2,14 +2,12 @@
 title: Collection Appeal Request, Box 15 — Additional Pages
 means: via Document Upload Tool
 date: 26 Nov 2026
+addressee: |
+  Department of the Treasury
+  Internal Revenue Service
+  Attn: Collection Appeals Program
+  Ogden, UT 84201-0038
 ```
-
-#### Addressee
-
-Department of the Treasury  
-Internal Revenue Service  
-Attn: Collection Appeals Program  
-Ogden, UT 84201-0038
 
 ## Relief sought and scope of appeal
 
