@@ -61,13 +61,13 @@ The taxpayer does not request a permanent exemption for operating cash, a blanke
 
 ### Scope of CAP review
 
-IRM 8.24.1.2 and 8.24.1.3.8[^7] direct Appeals to assess the appropriateness of the challenged collection action in light of applicable law, regulations, policy, procedures, and the relevant circumstances. The taxpayer asks Appeals to decide whether this levy should be sustained and, if not, to direct the appropriate corrective action.
+Under IRM 8.24.1.2 and 8.24.1.3.8,[^7] Appeals must consider whether the proposed or existing levy is appropriate in light of the applicable law, regulations, policy, procedures, and the facts of this case. The taxpayer asks Appeals to consider whether taking money from its operating account now would undermine the Service's ability to collect the liability later, and to direct corrective action if the levy is inappropriate.
 
 The taxpayer recognizes that CAP does not provide a general forum to negotiate alternative collection arrangements or determine the underlying liability. Any separate installment agreement or other collection alternative would be a matter for Collection under the relevant procedures. The availability of such arrangements may be relevant to the appropriateness of the action under review, but the relief sought here concerns the levy itself.
 
 ### Release to facilitate collection
 
-26 USC 6343(a)(1)(B)[^8] provides for release where doing so will facilitate collection of the liability. 26 CFR 301.6343-1(b)(2)[^9] implements that ground and contemplates releases on terms warranted by the circumstances.
+Under 26 USC 6343(a)(1)(B),[^8] the Service must release all or the necessary part of a levy if it determines that doing so will help it collect the outstanding tax liability. 26 CFR 301.6343-1(b)(2)[^9] implements this requirement and allows release on terms appropriate to the circumstances. In practical terms, taking money from the taxpayer now may make it harder for the Service to collect later if the loss of operating funds causes valuable assets to be lost or additional liabilities to arise. The taxpayer asks the Service to consider whether preserving sufficient funds to meet these time-sensitive obligations would improve its ability to collect any amount ultimately determined to be due.
 
 This provision supplies a collection-oriented basis for relief separate from the individual economic-hardship provision in 26 USC 6343(a)(1)(D). The taxpayer is a corporation and does not claim entitlement to relief under the reasonable-basic-living-expenses standard in 26 CFR 301.6343-1(b)(4)(i). Instead, it requests consideration of whether a full or partial release would facilitate collection by preventing otherwise avoidable costs and preserving the resources needed for compliance and payment.
 
