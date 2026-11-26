@@ -4,8 +4,6 @@ means: via Document Upload Tool
 date: 26 Nov 2026
 ```
 
-> Original CAP request filed: November 16, 2026
-
 ## Relief sought and scope of appeal
 
 The Syndicate requests review of the appropriateness of a proposed or actual levy against its operating bank account. It requests that Collection refrain from proceeding with the levy, or release the levy in whole or in relevant part if already served and release remains available, where doing so would better preserve its ability to meet its obligations and satisfy any properly determined federal tax liability.
