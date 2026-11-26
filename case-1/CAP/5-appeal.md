@@ -32,7 +32,7 @@ The Syndicate does not contend that a pending abatement claim or a general estim
 
 ## Change of address
 
-The Syndicate has changed its address. The updated address is identified in its [transfer-agent registration filing with the Commission](https://www.sec.gov/Archives/edgar/data/1846058/000184605826000008/xslFTA1X01/primary_doc.xml). The Syndicate requests confirmation that the Service has processed its [Form 8822-B](../corresp/f8822b.pdf) and updated the address on its records, and that all further correspondence concerning this appeal be directed to the current mailing address. The Commission filing is provided as corroborating documentation of the address change, not as evidence that the Service has processed it.
+The Syndicate has changed its address. The updated address is identified in its [transfer-agent registration filing with the Commission](https://www.sec.gov/Archives/edgar/data/1846058/000184605826000008/xslFTA1X01/primary_doc.xml). The address change is not yet reflected in the Syndicate's current IRS account transcript. The Syndicate requests that the Service process its [Form 8822-B](../corresp/f8822b.pdf), confirm when its records have been updated, and direct all further correspondence concerning this appeal to the current mailing address. The Commission filing is provided as corroborating documentation of the address change, not as evidence that the Service has processed it.
 
 ## Independent grounds for opposing the levy
 
