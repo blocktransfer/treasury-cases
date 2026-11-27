@@ -38,6 +38,10 @@ Domain registrations must be renewed on their own deadlines. Domains used for we
 
 The taxpayer's financial statements document at least $2,250 in long-term, illiquid web-domain assets (https://wooten.link/_4#9).[^2025-return-assets] Maintaining those assets requires timely renewal payments. The following page reports $556.53 in annual web-domain expenses (https://wooten.link/_4#10),[^2025-domain-expenses] equivalent to an average monthly expense of $46.38 ($556.53 ÷ 12 = $46.3775, rounded to the nearest cent), independently of other operating expenses.
 
+The operating bank account statement below shows a balance of approximately $334.[^bank-account-balance] The disputed $510 penalty exceeds the balance shown. A levy that takes the available balance would leave no cash in that account to pay domain renewal charges as they come due.
+
+![Operating bank account statement showing a balance of approximately $334](statement.png)
+
 A collection action that deprives the taxpayer of the cash needed to pay those renewals risks the permanent loss of significant corporate assets. The documented value of the domain portfolio is not itself available operating cash. Preserving sufficient liquidity to renew the registrations would protect existing corporate value and resources from which the taxpayer may ultimately satisfy its obligations. The taxpayer requests that the amount and timing of upcoming renewal charges be considered in assessing the appropriateness of the levy.
 
 ### Timely payment of franchise taxes and other corporate obligations
