@@ -11,9 +11,9 @@ addressee: |
 
 ## Relief sought and scope of appeal
 
-The taxpayer requests review of the appropriateness of a proposed or actual levy against its operating bank account. It requests that Collection refrain from proceeding with the levy, or release the levy in whole or in relevant part if already served and release remains available, where doing so would better preserve its ability to meet its obligations and satisfy any properly determined federal tax liability.
+The taxpayer requests review of the appropriateness of a proposed or actual levy. It requests that the Service refrain from proceeding with the levy, where doing so would better preserve its ability to meet its obligations and satisfy any properly determined federal tax liability.
 
-This appeal has an independent basis even if the Service ultimately sustains the underlying assessment. It concerns the timing, manner, and consequences of the collection action rather than a request that Appeals redetermine the penalty through the Collection Appeals Program (CAP). The taxpayer separately disputes the 2025 Form 1120-S late-filing penalty in its November 13 response to Letter 1382C.[^response-1382c] That dispute and all independently available review rights are expressly reserved; nothing in this appeal concedes the validity or amount of the assessment.
+This appeal has an independent basis even if the Service ultimately sustains the underlying assessment. It concerns the timing, manner, and consequences of the collection action rather than a request that Appeals redetermine the penalty through CAP. The taxpayer separately disputes the 2025 Form 1120-S late-filing penalty in its November 13 response to Letter 1382C.[^response-1382c] That dispute and all independently available review rights are expressly reserved; nothing in this appeal concedes the validity or amount of the assessment.
 
 ## Collection while the Service is considering the taxpayer's submissions
 
@@ -27,8 +27,6 @@ The taxpayer requests that Appeals examine the applicable correspondence, accoun
 - Whether a collection hold was requested, entered, extended, removed, or allowed to expire, and the date and reason for any such action;
 - Whether the collection office considered the pending abatement request and the November 13 response before deciding to proceed;
 - Whether the Service complied with the applicable notice, managerial-review, and collection procedures for the particular levy.
-
-The taxpayer does not contend that a pending abatement claim or a general estimate of processing time automatically creates a statutory prohibition on levy. Rather, it requests a determination based on the actual nature of the Service's representations, any account-specific collection hold, and the requirements applicable to this case. If Collection proceeded inconsistently with an applicable hold or procedure, the taxpayer requests the corresponding corrective action.
 
 ## Independent grounds for opposing the levy
 
@@ -105,7 +103,7 @@ Respectfully submitted,
 
 BlockTrans Syndicate
 
-[^response-1382c]: Taxpayer's November 13, 2026 response to Letter 1382C, _available at_ https://github.com/blocktransfer/treasury-cases/blob/eb265c6b2eac897f1f18bcc8e64e2fcab396e3d5/case-1/corresp/response-4.md.
+[^response-1382c]: Taxpayer's November 13, 2026 response to Letter 1382C, _available at_ https://blocktransfer.org/ref/treasury/4.
 
 [^transfer-agent-registration]: Transfer-agent registration filing with the Commission, _available at_ https://www.sec.gov/Archives/edgar/data/1846058/000184605826000008/xslFTA1X01/primary_doc.xml.
 
