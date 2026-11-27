@@ -48,11 +48,13 @@ A collection action that deprives the taxpayer of the cash needed to pay those r
 
 State franchise taxes and other corporate compliance charges have fixed deadlines. Inability to pay on time can trigger additional fees, interest, or administrative expense. The consequence of diverting cash from these obligations is not necessarily a reduction in the taxpayer's aggregate liabilities: it can instead create new liabilities to other authorities and diminish the cash available for future federal payments.
 
-This concern reflects the taxpayer's actual experience. In a prior year, a franchise-tax obligation was paid late, increasing the total cost of meeting that obligation by $200. The taxpayer's 2025 Statement of Profit, Loss, and Retained Earnings, https://wooten.link/_4#10[^2025-taxes-and-licenses] reports $430.63 in Taxes and Licenses and $556.53 in Web Domains. These figures establish the reported categories of recurring corporate expenditure. They do not, standing alone, establish the precise amount of a prior late fee, the year in which it arose, or any causal relationship between that earlier delay and a federal levy.
+This concern reflects the taxpayer's actual experience. In a prior year, a franchise-tax obligation was paid late, increasing the total cost of meeting that obligation by $200. The taxpayer's 2025 Statement of Profit, Loss, and Retained Earnings, https://wooten.link/_4#10[^2025-taxes-and-licenses] includes this in the $430.63 in Taxes and Licenses, alongiside $556.53 in Web Domains. These figures establish the reported categories of recurring corporate expenditure.
 
 The prior delay illustrates why payment timing matters independently of the merits of the federal assessment.
 
 ## Financial ability to pay
+
+The taxpayer has received no revenue to date in 2026.
 
 The taxpayer's 2025 Form 1120-S Tax Return Transcript, dated October 26, 2026 (pp. 1–2), reports no gross receipts, $1,000 in other income, $1,696 in total deductions, and an ordinary loss of $696 for the tax year. The return reports $17,505 in total assets at year-end, but the value of those assets does not establish the amount of cash available to pay the disputed $510 penalty. Page 9 of the taxpayer's 2025 return (https://wooten.link/_4#9)[^2025-return-assets] reports noncash assets with a total fair market value of $16,496.49: $14,230.21 in Stellar Lumens (XLM), $2,250 in the blocktransfer.com domain, and $16.28 in FxDAO tokens. Stellar Lumens alone account for approximately 81% of the $17,505 in total year-end assets reported in the transcript. The taxpayer holds its Stellar Lumens as a long-term capital investment, rather than as cash available for ordinary corporate expenses. Its domain asset likewise is not equivalent to unrestricted operating cash.
 
