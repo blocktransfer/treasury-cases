@@ -146,10 +146,6 @@ BlockTrans Syndicate
 
 [^irm-cap-collection-stay]: IRM 5.1.9.4, Collection Appeals Program procedures, _available at_ https://www.irs.gov/irm/part5/irm_05-001-009.
 
-[^irm-bank-levy]: IRM 5.11.4, bank levies and the 21-day holding period, _available at_ https://www.irs.gov/irm/part5/irm_05-011-004.
-
----
-
 ## Working notes — not part of the appeal submission
 
 - The November 13 preliminary appeal identified the 2025 Statement of Profit, Loss, and Retained Earnings at https://wooten.link/_3 as a supporting financial exhibit. Confirm its relationship to the expanded appeal's exhibit at https://wooten.link/_4 before submission.
