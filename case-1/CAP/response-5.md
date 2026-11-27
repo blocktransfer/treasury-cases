@@ -66,7 +66,7 @@ The taxpayer requests that Appeals determine whether it can pay the disputed ass
 
 ### Scope of CAP review
 
-Under IRM 8.24.1.2 and 8.24.1.3.8,[^irm-cap-review] Appeals must consider whether the proposed or existing levy is appropriate in light of the applicable law, regulations, policy, procedures, and the facts of this case. The taxpayer asks Appeals to consider whether taking money from its operating account now would undermine the Service's ability to collect the liability later, and to direct corrective action if the levy is inappropriate.
+Under IRM 8.24.1.2 and 8.24.1.3.8,[^irm-cap-review] Appeals must consider whether the proposed or existing levy is appropriate in light of the applicable law, regulations, policy, procedures, and the facts of this case. The taxpayer asks Appeals to consider whether taking money  now would undermine the Service's ability to collect the liability later, and to direct corrective action if the levy is inappropriate.
 
 The taxpayer recognizes that CAP does not provide a general forum to negotiate alternative collection arrangements or determine the underlying liability. Any separate installment agreement or other collection alternative would be a matter for Collection under the relevant procedures. The availability of such arrangements may be relevant to the appropriateness of the action under review, but the relief sought here concerns the levy itself.
 
@@ -74,23 +74,19 @@ The taxpayer recognizes that CAP does not provide a general forum to negotiate a
 
 Under 26 USC 6343(a)(1)(B)[^usc-levy-release] and 26 CFR 301.6343-1(b)(2),[^cfr-levy-release] the Service must release all or part of a levy if it determines that doing so will help it collect the tax liability, rather than make eventual payment more difficult.
 
-This provision supplies a collection-oriented basis for relief separate from the individual economic-hardship provision in 26 USC 6343(a)(1)(D). The taxpayer is a corporation and does not claim entitlement to relief under the reasonable-basic-living-expenses standard in 26 CFR 301.6343-1(b)(4)(i). Instead, it requests consideration of whether a full or partial release would facilitate collection by preventing otherwise avoidable costs and preserving the resources needed for compliance and payment.
+This provision supplies a collection-oriented basis for relief separate from the individual economic-hardship provision in 26 USC 6343(a)(1)(D). The taxpayer  requests consideration of whether a full or partial release would facilitate collection by preventing otherwise avoidable costs and preserving the resources needed for compliance and payment.
 
-For a levy that has not yet been served, the same practical considerations support reviewing its appropriateness before it is imposed. For an existing levy, the taxpayer requests a determination under the applicable release provisions. It acknowledges that the required showing must be made on actual financial evidence.
 
 ## Preservation of the status quo pending review
 
 The taxpayer requests prompt confirmation of the status of the CAP request and any applicable collection stay. IRM 5.1.9.4[^irm-cap-collection-stay] contains procedural conditions governing CAP requests in field collection, including circumstances under which collection may resume. The taxpayer requests that the Service identify the procedures applicable to the office handling this case and observe any stay required by those procedures.
 
-If a levy has already been served on a qualifying bank, the taxpayer requests immediate confirmation of the service date, amount held, and anticipated surrender date. IRM 5.11.4[^irm-bank-levy] describes the 21-calendar-day holding period under 26 USC 6332(c). If funds have not yet been surrendered, the taxpayer asks Collection to coordinate with the bank and Appeals promptly regarding any authorized release or extension of the holding period. The holding period is not itself a release, and this appeal is not assumed to extend it automatically.
-
-If funds have already been surrendered, the taxpayer requests identification of the applicable procedure, if any, for challenging the collection or seeking return of the proceeds. It does not assume that CAP or a request for release provides a remedy after remittance.
 
 ## Requested determination
 
 For the foregoing reasons, the taxpayer respectfully requests that Appeals:
 
-1. Review the appropriateness of the bank-account levy, including the Service's collection chronology and any applicable restrictions on collection.
+1. Review the appropriateness of th levy, including the Service's collection chronology and any applicable restrictions on collection.
 2. Consider the actual operational expenses, near-term deadlines, and liquidity evidence in determining whether the levy impairs rather than facilitates ultimate collection.
 3. Decline to sustain an inappropriate proposed levy or direct release of an existing levy to the extent authorized and warranted, including partial release if sufficient to address the demonstrated concern.
 4. Identify the current status of collection, the basis for the determination, and any corrective action directed, and communicate the result in writing.
@@ -101,7 +97,7 @@ The taxpayer remains willing to furnish the relevant documentation and to addres
 
 ## Confirmation of updated mailing address
 
-The taxpayer has changed its corporate address, as reflected in its transfer-agent registration filing with the Commission.[^transfer-agent-registration] The updated address is not yet reflected in the taxpayer's IRS account transcript. The taxpayer requests that the Service process its Form 8822-B[^form-8822b] and confirm in writing that its records have been updated and that all subsequent notices and correspondence will be mailed to the new corporate address, so that the taxpayer may receive them and respond within the applicable deadlines. The Commission filing corroborates the address change but does not establish that the Service has processed it.
+The taxpayer has changed its corporate address, as reflected in its transfer-agent registration filing with the Commission.[^transfer-agent-registration] The updated address is not yet reflected in the taxpayer's IRS account transcript. The taxpayer requests that the Service process its Form 8822-B[^form-8822b] zsubmitted 13 Nov 2026 and confirm in writing that its records have been updated and that all subsequent notices and correspondence will be mailed to the new corporate address, so that the taxpayer may receive them and respond within the applicable deadlines. The Commission filing corroborates the address change but does not establish that the Service has processed it.
 
 Respectfully submitted,
 
