@@ -97,7 +97,7 @@ The taxpayer remains willing to furnish the relevant documentation and to addres
 
 ## Confirmation of updated mailing address
 
-The taxpayer has changed its corporate address, as reflected in its transfer-agent registration filing with the Commission.[^transfer-agent-registration] The updated address is not yet reflected in the taxpayer's IRS account transcript. The taxpayer requests that the Service process its Form 8822-B[^form-8822b] zsubmitted 13 Nov 2026 and confirm in writing that its records have been updated and that all subsequent notices and correspondence will be mailed to the new corporate address, so that the taxpayer may receive them and respond within the applicable deadlines. The Commission filing corroborates the address change but does not establish that the Service has processed it.
+The taxpayer has changed its corporate address, as reflected in its transfer-agent registration filing with the Commission.[^transfer-agent-registration] The updated address is not yet reflected in the taxpayer's IRS account transcript. The taxpayer requests that the Service process its Form 8822-B[^form-8822b] zsubmitted 13 Nov 2026 and confirm in writing that its records have been updated and that all subsequent notices and correspondence will be mailed to the new corporate address, so that the taxpayer may receive them and respond within the applicable deadlines.
 
 Respectfully submitted,
 
