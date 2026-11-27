@@ -73,7 +73,17 @@ The taxpayer recognizes that CAP does not provide a general forum to negotiate a
 
 Under 26 USC 6343(a)(1)(B)[^usc-levy-release] and 26 CFR 301.6343-1(b)(2),[^cfr-levy-release] the Service must release all or part of a levy if it determines that doing so will help it collect the tax liability, rather than make eventual payment more difficult.
 
-This provision supplies a collection-oriented basis for relief separate from the economic-hardship provision in 26 USC 6343(a)(1)(D), which Treasury regulations restrict to individual taxpayers, a restriction upheld by the Tenth Circuit in *Seminole Nursing Home, Inc. v. Commissioner*.[^corporate-levy-relief] The taxpayer requests consideration of whether a full or partial release would facilitate collection by preventing otherwise avoidable costs and preserving the resources needed for compliance and payment.
+The taxpayer requests consideration of whether a full or partial release would facilitate collection by preventing otherwise avoidable costs and preserving the resources needed for compliance and payment.
+
+### Economic hardship and the statutory meaning of taxpayer
+
+The taxpayer independently invokes 26 USC 6343(a)(1)(D), which provides for release of a levy creating economic hardship due to the financial condition of the taxpayer. Congress did not limit this provision to individuals. Under 26 USC 7701(a)(14), a taxpayer is any person subject to an internal revenue tax, and under 26 USC 7701(a)(1), the term person expressly includes a corporation.[^statutory-taxpayer] The taxpayer submits that its corporate status does not, by itself, make the statutory protection inapplicable.
+
+Treasury's regulation, 26 CFR 301.6343-1(b)(4)(i), adds an individual-taxpayer restriction absent from the statute. The taxpayer disputes that restriction: authority to prescribe regulations implementing levy relief does not authorize Treasury to narrow the class of taxpayers Congress expressly defined. Nor does the statutory context establish that economic hardship is necessarily confined to personal living expenses. Corporations can experience economic hardship when collection deprives them of the resources necessary to preserve productive assets, discharge mandatory obligations, and continue operating.
+
+The same statutory argument was advanced in *Lindsay Manor Nursing Home, Inc. v. Commissioner* and *Seminole Nursing Home, Inc. v. Commissioner*.[^corporate-levy-relief] Although the former decision was vacated and the latter upheld the regulation under the then-applicable *Chevron* framework, the Supreme Court has since overruled that framework in *Loper Bright Enterprises v. Raimondo*. A reviewing court must exercise independent judgment concerning the scope of Treasury's statutory authority, rather than defer merely because the statute is ambiguous.[^loper-bright] The taxpayer maintains that the better reading of the statute gives effect to Congress's express definition of taxpayer and preserves this objection to the regulatory exclusion.
+
+The taxpayer requests consideration of the actual economic hardship documented above and a full or partial release under subparagraph (D) to the extent legally available. If Appeals concludes that the existing regulation forecloses this ground, the taxpayer requests a written explanation of that determination. Independently, the taxpayer maintains its request under subparagraph (B), which does not depend on the resolution of the regulatory challenge.
 
 
 ## Preservation of the status quo pending review
@@ -87,7 +97,7 @@ For the foregoing reasons, the taxpayer respectfully requests that Appeals:
 
 1. Review the appropriateness of th levy, including the Service's collection chronology and any applicable restrictions on collection.
 2. Consider the actual operational expenses, near-term deadlines, and liquidity evidence in determining whether the levy impairs rather than facilitates ultimate collection.
-3. Decline to sustain an inappropriate proposed levy or direct release of an existing levy to the extent authorized and warranted, including partial release if sufficient to address the demonstrated concern.
+3. Decline to sustain an inappropriate proposed levy or direct release of an existing levy to the extent authorized and warranted, including partial release, under 26 USC 6343(a)(1)(B) or (D); address the taxpayer's statutory objection to the individual-taxpayer restriction if relief under subparagraph (D) is denied on that basis.
 4. Identify the current status of collection, the basis for the determination, and any corrective action directed, and communicate the result in writing.
 
 If the required Collection managerial review has not yet occurred, the taxpayer requests that it be arranged and, if the matter remains unresolved, that this request and its supporting materials be forwarded to the Independent Office of Appeals under CAP. The taxpayer requests that any requests for additional information be communicated in writing.
@@ -122,7 +132,11 @@ BlockTrans Syndicate
 
 [^cfr-levy-release]: 26 CFR 301.6343-1(b)(2), release of levy to facilitate collection, _available at_ https://www.ecfr.gov/current/title-26/section-301.6343-1.
 
-[^corporate-levy-relief]: 26 CFR 301.6343-1(b)(4)(i), _available at_ https://www.ecfr.gov/current/title-26/section-301.6343-1. See *Seminole Nursing Home, Inc. v. Commissioner*, 12 F.4th 1150 (10th Cir. 2021), _available at_ https://law.justia.com/cases/federal/appellate-courts/ca10/20-9005/20-9005-2021-09-02.html (upholding the individual-taxpayer restriction). The earlier case, *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. 235 (2017), _available at_ https://www.courtlistener.com/opinion/4563370/lindsay-manor-nursing-home-inc-v-commr/, also addressed that restriction, but was vacated as moot without a ruling on the merits of the statutory question, 725 F. App'x 713 (10th Cir. 2018), _available at_ https://www.ca10.uscourts.gov/opinion/17-9002. Neither case is relied upon as authority for release under 26 USC 6343(a)(1)(B).
+[^statutory-taxpayer]: 26 USC 6343(a)(1)(D), _available at_ https://uscode.house.gov/us/usc/119-136/t26/s6343/; 26 USC 7701(a)(1) and (14), including the introductory qualification concerning contrary statutory expression or manifest incompatibility with statutory intent, _available at_ https://uscode.house.gov/us/usc/t26/s7701/.
+
+[^corporate-levy-relief]: 26 CFR 301.6343-1(b)(4)(i), _available at_ https://www.ecfr.gov/current/title-26/section-301.6343-1. See *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. 235 (2017), _available at_ https://www.courtlistener.com/opinion/4563370/lindsay-manor-nursing-home-inc-v-commr/ (rejecting the corporate taxpayer's statutory argument), vacated as moot, No. 17-9002 (10th Cir. Mar. 27, 2018), _available at_ https://law.justia.com/cases/federal/appellate-courts/ca10/17-9002/17-9002-2018-03-27.html; *Seminole Nursing Home, Inc. v. Commissioner*, 12 F.4th 1150 (10th Cir. 2021), _available at_ https://law.justia.com/cases/federal/appellate-courts/ca10/20-9005/20-9005-2021-09-02.html (rejecting the same statutory argument and sustaining the regulation under *Chevron*). These decisions are cited to identify the arguments and their disposition, not as holdings in favor of corporate economic-hardship relief.
+
+[^loper-bright]: *Loper Bright Enterprises v. Raimondo*, 603 U.S. 369, 412 (2024), _available at_ https://www.law.cornell.edu/supremecourt/text/22-451. The Court expressly preserved the ordinary operation of statutory stare decisis for earlier holdings sustaining agency actions; the overruling of *Chevron* does not itself overturn *Seminole* or invalidate the Treasury regulation.
 
 [^irm-cap-collection-stay]: IRM 5.1.9.4, Collection Appeals Program procedures, _available at_ https://www.irs.gov/irm/part5/irm_05-001-009.
 
