@@ -25,8 +25,7 @@ The taxpayer requests that Appeals examine the applicable correspondence, accoun
 
 - What the 60-day and 90-day periods referred to, when each period began, and what the Service communicated about collection during those periods;
 - Whether a collection hold was requested, entered, extended, removed, or allowed to expire, and the date and reason for any such action;
-- Whether the collection office considered the pending abatement request and the November 13 response before deciding to proceed;
-- Whether the Service complied with the applicable notice, managerial-review, and collection procedures for the particular levy.
+- Whether the collection office considered the pending abatement request and the November 13 response before deciding to proceed.
 
 ## Independent grounds for opposing the levy
 
