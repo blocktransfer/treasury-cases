@@ -73,7 +73,7 @@ The taxpayer recognizes that CAP does not provide a general forum to negotiate a
 
 Under 26 USC 6343(a)(1)(B)[^usc-levy-release] and 26 CFR 301.6343-1(b)(2),[^cfr-levy-release] the Service must release all or part of a levy if it determines that doing so will help it collect the tax liability, rather than make eventual payment more difficult.
 
-This provision supplies a collection-oriented basis for relief separate from the individual economic-hardship provision in 26 USC 6343(a)(1)(D). The taxpayer  requests consideration of whether a full or partial release would facilitate collection by preventing otherwise avoidable costs and preserving the resources needed for compliance and payment.
+This provision supplies a collection-oriented basis for relief separate from the economic-hardship provision in 26 USC 6343(a)(1)(D), which Treasury regulations restrict to individual taxpayers, a restriction upheld by the Tenth Circuit in *Seminole Nursing Home, Inc. v. Commissioner*.[^corporate-levy-relief] The taxpayer requests consideration of whether a full or partial release would facilitate collection by preventing otherwise avoidable costs and preserving the resources needed for compliance and payment.
 
 
 ## Preservation of the status quo pending review
@@ -122,6 +122,8 @@ BlockTrans Syndicate
 
 [^cfr-levy-release]: 26 CFR 301.6343-1(b)(2), release of levy to facilitate collection, _available at_ https://www.ecfr.gov/current/title-26/section-301.6343-1.
 
+[^corporate-levy-relief]: 26 CFR 301.6343-1(b)(4)(i), _available at_ https://www.ecfr.gov/current/title-26/section-301.6343-1. See *Seminole Nursing Home, Inc. v. Commissioner*, 12 F.4th 1150 (10th Cir. 2021), _available at_ https://law.justia.com/cases/federal/appellate-courts/ca10/20-9005/20-9005-2021-09-02.html (upholding the individual-taxpayer restriction). The earlier case, *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. 235 (2017), _available at_ https://www.courtlistener.com/opinion/4563370/lindsay-manor-nursing-home-inc-v-commr/, also addressed that restriction, but was vacated as moot without a ruling on the merits of the statutory question, 725 F. App'x 713 (10th Cir. 2018), _available at_ https://www.ca10.uscourts.gov/opinion/17-9002. Neither case is relied upon as authority for release under 26 USC 6343(a)(1)(B).
+
 [^irm-cap-collection-stay]: IRM 5.1.9.4, Collection Appeals Program procedures, _available at_ https://www.irs.gov/irm/part5/irm_05-001-009.
 
 [^irm-bank-levy]: IRM 5.11.4, bank levies and the 21-day holding period, _available at_ https://www.irs.gov/irm/part5/irm_05-011-004.
@@ -137,8 +139,3 @@ BlockTrans Syndicate
 - The figures at https://wooten.link/_4#9 have been confirmed from the supplied excerpt: $14,230.21 in Stellar Lumens, $2,250 in the blocktransfer.com domain, and $16.28 in FxDAO tokens, totaling $16,496.49 in reported fair market value. Confirm the $556.53 in annual web-domain expenses at https://wooten.link/_4#10 before submission; the shortlink could not be independently retrieved during this revision. The monthly expense computation has been checked. Retain dated renewal invoices to substantiate actual upcoming payments.
 - Request access to the nonprivileged administrative file where applicable under 26 USC 7803(e)(7) and IRM 8.24.1.3.1, without assuming the statutory advance-access requirements apply to every corporate taxpayer.
 - Keep any distinct CDP deadlines and remedies separate; do not assume a CAP request preserves a CDP hearing deadline or confers judicial review.
-- Citation correction: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. No. 9 (2017)[^lindsay-manor-opinion] was vacated on mootness grounds on appeal, No. 17-9002 (10th Cir. Mar. 27, 2018).[^lindsay-manor-vacatur] Do not rely on that vacated decision as precedent. The working appeal instead rests on the current regulation and the separate statutory facilitation-of-collection ground.
-
-[^lindsay-manor-opinion]: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. No. 9 (2017), vacated, _available at_ https://www.courtlistener.com/opinion/4563370/lindsay-manor-nursing-home-inc-v-commr/.
-
-[^lindsay-manor-vacatur]: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, No. 17-9002 (10th Cir. Mar. 27, 2018), vacatur on mootness grounds, _available at_ https://law.justia.com/cases/federal/appellate-courts/ca10/17-9002/17-9002-2018-03-27.html.
