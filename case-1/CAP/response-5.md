@@ -11,9 +11,9 @@ addressee: |
 
 ## Relief sought and scope of appeal
 
-The taxpayer requests review of the appropriateness of a proposed or actual levy against its operating bank account. It requests that Collection refrain from proceeding with the levy, or release the levy in whole or in relevant part if already served and release remains available, where doing so would better preserve its ability to meet its obligations and satisfy any properly determined federal tax liability.
+The taxpayer requests review of the appropriateness of a proposed or actual levy. It requests that the Service refrain from proceeding with the levy, where doing so would better preserve its ability to meet its obligations and satisfy any properly determined federal tax liability.
 
-This appeal has an independent basis even if the Service ultimately sustains the underlying assessment. It concerns the timing, manner, and consequences of the collection action rather than a request that Appeals redetermine the penalty through the Collection Appeals Program (CAP). The taxpayer separately disputes the 2025 Form 1120-S late-filing penalty in its November 13 response to Letter 1382C.[^response-1382c] That dispute and all independently available review rights are expressly reserved; nothing in this appeal concedes the validity or amount of the assessment.
+This appeal has an independent basis even if the Service ultimately sustains the underlying assessment. It concerns the timing, manner, and consequences of the collection action rather than a request that Appeals redetermine the penalty through CAP. The taxpayer separately disputes the 2025 Form 1120-S late-filing penalty in its November 13 response to Letter 1382C.[^response-1382c] That dispute and all independently available review rights are expressly reserved; nothing in this appeal concedes the validity or amount of the assessment.
 
 ## Collection while the Service is considering the taxpayer's submissions
 
@@ -25,10 +25,7 @@ The taxpayer requests that Appeals examine the applicable correspondence, accoun
 
 - What the 60-day and 90-day periods referred to, when each period began, and what the Service communicated about collection during those periods;
 - Whether a collection hold was requested, entered, extended, removed, or allowed to expire, and the date and reason for any such action;
-- Whether the collection office considered the pending abatement request and the November 13 response before deciding to proceed;
-- Whether the Service complied with the applicable notice, managerial-review, and collection procedures for the particular levy.
-
-The taxpayer does not contend that a pending abatement claim or a general estimate of processing time automatically creates a statutory prohibition on levy. Rather, it requests a determination based on the actual nature of the Service's representations, any account-specific collection hold, and the requirements applicable to this case. If Collection proceeded inconsistently with an applicable hold or procedure, the taxpayer requests the corresponding corrective action.
+- Whether the collection office considered the pending abatement request and the November 13 response before deciding to proceed.
 
 ## Independent grounds for opposing the levy
 
@@ -38,7 +35,11 @@ The proposed means of collection poses a distinct threat to the taxpayer's abili
 
 Domain registrations must be renewed on their own deadlines. Domains used for websites, communications, and corporate records are not merely discretionary purchases: they preserve access to established organizational resources. Failure to renew a domain can lead to interruption of service, redemption charges, or permanent loss of the registration. The cost of recovering or replacing it may be substantially greater than the renewal fee, and replacement cannot necessarily restore existing links or communications.
 
-The taxpayer's financial statements document at least $2,250 in long-term, illiquid web-domain assets (wooten.link/_4 at 9).[^2025-return-assets] Maintaining those assets requires timely renewal payments. The following page reports $556.53 in annual web-domain expenses (wooten.link/_4 at 10),[^2025-domain-expenses] equivalent to an average monthly expense of $46.38 ($556.53 ÷ 12 = $46.3775, rounded to the nearest cent), independently of other operating expenses. This monthly average illustrates the recurring cost of preserving the domain portfolio; actual renewal payments must be made on their respective due dates.
+The taxpayer's financial statements document at least $2,250 in long-term, illiquid web-domain assets.[^2025-return-assets] Maintaining those assets requires timely renewal payments. The following page reports $556.53 in annual web-domain expenses,[^2025-domain-expenses] equivalent to an average monthly expense of $46.38 ($556.53 ÷ 12 = $46.3775, rounded to the nearest cent), independently of other operating expenses.
+
+The operating bank account statement below shows a balance of approximately $334.[^bank-account-balance] The disputed $510 penalty exceeds the balance shown. A levy that takes the available balance would leave no cash in that account to pay domain renewal charges as they come due.
+
+![Operating bank account statement showing a balance of approximately $334](statement.png)
 
 A collection action that deprives the taxpayer of the cash needed to pay those renewals risks the permanent loss of significant corporate assets. The documented value of the domain portfolio is not itself available operating cash. Preserving sufficient liquidity to renew the registrations would protect existing corporate value and resources from which the taxpayer may ultimately satisfy its obligations. The taxpayer requests that the amount and timing of upcoming renewal charges be considered in assessing the appropriateness of the levy.
 
@@ -46,17 +47,17 @@ A collection action that deprives the taxpayer of the cash needed to pay those r
 
 State franchise taxes and other corporate compliance charges have fixed deadlines. Inability to pay on time can trigger additional fees, interest, or administrative expense. The consequence of diverting cash from these obligations is not necessarily a reduction in the taxpayer's aggregate liabilities: it can instead create new liabilities to other authorities and diminish the cash available for future federal payments.
 
-This concern reflects the taxpayer's actual experience. In a prior year, a franchise-tax obligation was paid late, increasing the total cost of meeting that obligation. The taxpayer's 2025 Statement of Profit, Loss, and Retained Earnings, wooten.link/_4 at 10[^2025-taxes-and-licenses] reports $430.63 in Taxes and Licenses and $556.53 in Web Domains. These figures establish the reported categories of recurring corporate expenditure. They do not, standing alone, establish the precise amount of a prior late fee, the year in which it arose, or any causal relationship between that earlier delay and a federal levy.
+This concern reflects the taxpayer's actual experience. In a prior year, a franchise-tax obligation was paid late, increasing the total cost of meeting that obligation by $200. The taxpayer's 2025 Statement of Profit, Loss, and Retained Earnings includes this in the $430.63 in Taxes and Licenses, alongiside $556.53 in Web Domains.[^2025-taxes-and-licenses] These figures establish the reported categories of recurring corporate expenditure.
 
 The prior delay illustrates why payment timing matters independently of the merits of the federal assessment.
 
 ## Financial ability to pay
 
-The taxpayer's 2025 Form 1120-S Tax Return Transcript, dated October 26, 2026 (pp. 1–2), reports no gross receipts, $1,000 in other income, $1,696 in total deductions, and an ordinary loss of $696 for the tax year. The return reports $17,505 in total assets at year-end, but the value of those assets does not establish the amount of cash available to pay the disputed $510 penalty. Page 9 of the taxpayer's 2025 return (wooten.link/_4 at 9)[^2025-return-assets] reports noncash assets with a total fair market value of $16,496.49: $14,230.21 in Stellar Lumens (XLM), $2,250 in the blocktransfer.com domain, and $16.28 in FxDAO tokens. Stellar Lumens alone account for approximately 81% of the $17,505 in total year-end assets reported in the transcript. The taxpayer holds its Stellar Lumens as a long-term capital investment, rather than as cash available for ordinary corporate expenses. Its domain asset likewise is not equivalent to unrestricted operating cash.
+The taxpayer has received no revenue to date in 2026.
+
+The taxpayer's 2025 Form 1120-S Tax Return Transcript, dated October 26, 2026 (http://wooten.link/_1, pp. 1–2), reports no gross receipts, $1,000 in other income, $1,696 in total deductions, and an ordinary loss of $696 for the tax year. The return reports $17,505 in total assets at year-end, but the value of those assets does not establish the amount of cash available to pay the disputed $510 penalty. Page 9 of the taxpayer's 2025 return reports noncash assets with a total fair market value of $16,496.49: $14,230.21 in Stellar Lumens (XLM), $2,250 in the blocktransfer.com domain, and $16.28 in FxDAO tokens.[^2025-return-noncash-assets] Stellar Lumens alone account for approximately 81% of the $17,505 in total year-end assets reported in the transcript. The taxpayer holds its Stellar Lumens as a long-term capital investment, rather than as cash available for ordinary corporate expenses. Its domain asset likewise is not equivalent to unrestricted operating cash.
 
 Although the taxpayer may be able to sell some of its Stellar Lumens, doing so solely to pay the disputed penalty at presently unfavorable market prices would, in the taxpayer's judgment, sacrifice the value of a long-term investment to satisfy an immediate collection demand. The taxpayer asks Appeals to consider the net proceeds actually obtainable from a sale, the resulting economic cost, and whether requiring liquidation now would unnecessarily impair its ability to meet its future obligations, including any federal liability ultimately determined to be due.
-
-The taxpayer's historical operating results show that its reported expenses exceeded its income in 2025. An assessment of its present ability to pay should therefore consider its actual current bank balances, anticipated receipts, assets that can reasonably be converted to cash, and necessary expenses as they become due, rather than assume that historical asset values represent funds available for immediate collection. The taxpayer provides a screenshot of its operating bank account showing a balance of approximately $334.[^bank-account-balance] This amount is already less than the disputed $510 penalty, even before accounting for necessary operating expenses. Paying the penalty in full from that account alone is therefore not possible on the balance shown.
 
 The taxpayer requests that Appeals determine whether it can pay the disputed assessment in full at this time without impairing its ability to meet necessary obligations and whether collecting the entire amount immediately would make eventual collection more difficult. Where the evidence supports it, the taxpayer requests that sufficient operating funds be preserved. This request does not seek a permanent exemption from collection or concede the validity or amount of the underlying assessment.
 
@@ -64,7 +65,7 @@ The taxpayer requests that Appeals determine whether it can pay the disputed ass
 
 ### Scope of CAP review
 
-Under IRM 8.24.1.2 and 8.24.1.3.8,[^irm-cap-review] Appeals must consider whether the proposed or existing levy is appropriate in light of the applicable law, regulations, policy, procedures, and the facts of this case. The taxpayer asks Appeals to consider whether taking money from its operating account now would undermine the Service's ability to collect the liability later, and to direct corrective action if the levy is inappropriate.
+Under IRM 8.24.1.2 and 8.24.1.3.8,[^irm-cap-review] Appeals must consider whether the proposed or existing levy is appropriate in light of the applicable law, regulations, policy, procedures, and the facts of this case. The taxpayer asks Appeals to consider whether taking money  now would undermine the Service's ability to collect the liability later, and to direct corrective action if the levy is inappropriate.
 
 The taxpayer recognizes that CAP does not provide a general forum to negotiate alternative collection arrangements or determine the underlying liability. Any separate installment agreement or other collection alternative would be a matter for Collection under the relevant procedures. The availability of such arrangements may be relevant to the appropriateness of the action under review, but the relief sought here concerns the levy itself.
 
@@ -72,25 +73,33 @@ The taxpayer recognizes that CAP does not provide a general forum to negotiate a
 
 Under 26 USC 6343(a)(1)(B)[^usc-levy-release] and 26 CFR 301.6343-1(b)(2),[^cfr-levy-release] the Service must release all or part of a levy if it determines that doing so will help it collect the tax liability, rather than make eventual payment more difficult.
 
-This provision supplies a collection-oriented basis for relief separate from the individual economic-hardship provision in 26 USC 6343(a)(1)(D). The taxpayer is a corporation and does not claim entitlement to relief under the reasonable-basic-living-expenses standard in 26 CFR 301.6343-1(b)(4)(i). Instead, it requests consideration of whether a full or partial release would facilitate collection by preventing otherwise avoidable costs and preserving the resources needed for compliance and payment.
+The taxpayer requests consideration of whether a full or partial release would facilitate collection by preventing otherwise avoidable costs and preserving the resources needed for compliance and payment.
 
-For a levy that has not yet been served, the same practical considerations support reviewing its appropriateness before it is imposed. For an existing levy, the taxpayer requests a determination under the applicable release provisions. It acknowledges that the required showing must be made on actual financial evidence.
+### Economic hardship and the statutory meaning of taxpayer
+
+The taxpayer independently invokes 26 USC 6343(a)(1)(D), which provides for release of a levy creating economic hardship due to the financial condition of the taxpayer. Congress did not limit this provision to individuals. Under 26 USC 7701(a)(14), a taxpayer is any person subject to an internal revenue tax, and under 26 USC 7701(a)(1), the term person expressly includes a corporation.[^statutory-taxpayer] The taxpayer submits that its corporate status does not, by itself, make the statutory protection inapplicable.
+
+Treasury's regulation, 26 CFR 301.6343-1(b)(4)(i), adds an individual-taxpayer restriction absent from the statute. The taxpayer disputes that restriction: authority to prescribe regulations implementing levy relief does not authorize Treasury to narrow the class of taxpayers Congress expressly defined. Nor does the statutory context establish that economic hardship is necessarily confined to personal living expenses. Corporations can experience economic hardship when collection deprives them of the resources necessary to preserve productive assets, discharge mandatory obligations, and continue operating.
+
+The taxpayer is a closely held S corporation with a single shareholder, John Wooten. The taxpayer submits that this ownership structure is particularly relevant to its request for economic-hardship relief: the economic consequences of a levy that impairs the corporation's ability to preserve its assets and meet its obligations ultimately affect a single individual rather than being distributed among multiple shareholders. The taxpayer requests that Appeals consider this circumstance in assessing the hardship resulting from the levy, without disregarding the corporation's separate legal existence. The fact of sole ownership is presented here as a basis for collection relief, not as a request in this proceeding to redetermine the shareholder count used to calculate the penalty under 26 USC 6699. The taxpayer's separate challenge to that calculation remains expressly reserved in its November 13 response to Letter 1382C.[^response-1382c-shareholder-count]
+
+The same statutory argument was advanced in *Lindsay Manor Nursing Home, Inc. v. Commissioner* and *Seminole Nursing Home, Inc. v. Commissioner*.[^corporate-levy-relief] Although the former decision was vacated and the latter upheld the regulation under the then-applicable *Chevron* framework, the Supreme Court has since overruled that framework in *Loper Bright Enterprises v. Raimondo*. A reviewing court must exercise independent judgment concerning the scope of Treasury's statutory authority, rather than defer merely because the statute is ambiguous.[^loper-bright] The taxpayer maintains that the better reading of the statute gives effect to Congress's express definition of taxpayer and preserves this objection to the regulatory exclusion.
+
+The taxpayer requests consideration of the actual economic hardship documented above and a full or partial release under subparagraph (D) to the extent legally available. If Appeals concludes that the existing regulation forecloses this ground, the taxpayer requests a written explanation of that determination. Independently, the taxpayer maintains its request under subparagraph (B), which does not depend on the resolution of the regulatory challenge.
+
 
 ## Preservation of the status quo pending review
 
 The taxpayer requests prompt confirmation of the status of the CAP request and any applicable collection stay. IRM 5.1.9.4[^irm-cap-collection-stay] contains procedural conditions governing CAP requests in field collection, including circumstances under which collection may resume. The taxpayer requests that the Service identify the procedures applicable to the office handling this case and observe any stay required by those procedures.
 
-If a levy has already been served on a qualifying bank, the taxpayer requests immediate confirmation of the service date, amount held, and anticipated surrender date. IRM 5.11.4[^irm-bank-levy] describes the 21-calendar-day holding period under 26 USC 6332(c). If funds have not yet been surrendered, the taxpayer asks Collection to coordinate with the bank and Appeals promptly regarding any authorized release or extension of the holding period. The holding period is not itself a release, and this appeal is not assumed to extend it automatically.
-
-If funds have already been surrendered, the taxpayer requests identification of the applicable procedure, if any, for challenging the collection or seeking return of the proceeds. It does not assume that CAP or a request for release provides a remedy after remittance.
 
 ## Requested determination
 
 For the foregoing reasons, the taxpayer respectfully requests that Appeals:
 
-1. Review the appropriateness of the bank-account levy, including the Service's collection chronology and any applicable restrictions on collection.
+1. Review the appropriateness of th levy, including the Service's collection chronology and any applicable restrictions on collection.
 2. Consider the actual operational expenses, near-term deadlines, and liquidity evidence in determining whether the levy impairs rather than facilitates ultimate collection.
-3. Decline to sustain an inappropriate proposed levy or direct release of an existing levy to the extent authorized and warranted, including partial release if sufficient to address the demonstrated concern.
+3. Decline to sustain an inappropriate proposed levy or direct release of an existing levy to the extent authorized and warranted, including partial release, under 26 USC 6343(a)(1)(B) or (D); address the taxpayer's statutory objection to the individual-taxpayer restriction if relief under subparagraph (D) is denied on that basis.
 4. Identify the current status of collection, the basis for the determination, and any corrective action directed, and communicate the result in writing.
 
 If the required Collection managerial review has not yet occurred, the taxpayer requests that it be arranged and, if the matter remains unresolved, that this request and its supporting materials be forwarded to the Independent Office of Appeals under CAP. The taxpayer requests that any requests for additional information be communicated in writing.
@@ -99,23 +108,27 @@ The taxpayer remains willing to furnish the relevant documentation and to addres
 
 ## Confirmation of updated mailing address
 
-The taxpayer has changed its corporate address, as reflected in its transfer-agent registration filing with the Commission.[^transfer-agent-registration] The updated address is not yet reflected in the taxpayer's IRS account transcript. The taxpayer requests that the Service process its Form 8822-B[^form-8822b] and confirm in writing that its records have been updated and that all subsequent notices and correspondence will be mailed to the new corporate address, so that the taxpayer may receive them and respond within the applicable deadlines. The Commission filing corroborates the address change but does not establish that the Service has processed it.
+The taxpayer has changed its corporate address, as reflected in its transfer-agent registration filing with the Commission.[^transfer-agent-registration] The updated address is not yet reflected in the taxpayer's IRS account transcript. The taxpayer requests that the Service process its Form 8822-B[^form-8822b] zsubmitted 13 Nov 2026 and confirm in writing that its records have been updated and that all subsequent notices and correspondence will be mailed to the new corporate address, so that the taxpayer may receive them and respond within the applicable deadlines.
 
 Respectfully submitted,
 
 BlockTrans Syndicate
 
-[^response-1382c]: Taxpayer's November 13, 2026 response to Letter 1382C, _available at_ https://github.com/blocktransfer/treasury-cases/blob/eb265c6b2eac897f1f18bcc8e64e2fcab396e3d5/case-1/corresp/response-4.md.
+[^response-1382c]: Taxpayer's November 13, 2026 response to Letter 1382C, _available at_ https://blocktransfer.org/ref/treasury/4.
+
+[^response-1382c-shareholder-count]: Taxpayer's November 13, 2026 response to Letter 1382C, concerning the disputed shareholder count, _available at_ https://blocktransfer.org/ref/treasury/4.
 
 [^transfer-agent-registration]: Transfer-agent registration filing with the Commission, _available at_ https://www.sec.gov/Archives/edgar/data/1846058/000184605826000008/xslFTA1X01/primary_doc.xml.
 
 [^form-8822b]: Form 8822-B, Change of Address or Responsible Party — Business, _available at_ https://github.com/blocktransfer/treasury-cases/blob/eb265c6b2eac897f1f18bcc8e64e2fcab396e3d5/case-1/corresp/f8822b.pdf.
 
-[^2025-return-assets]: 2025 Form 1120-S, wooten.link/_4 at 9, fair market value of assets, _available at_ https://wooten.link/_4.
+[^2025-return-assets]: 2025 Form 1120-S, https://wooten.link/_4#9, fair market value of assets, _available at_ https://wooten.link/_4.
 
-[^2025-domain-expenses]: 2025 Statement of Profit, Loss, and Retained Earnings, wooten.link/_4 at 10, Web Domains, _available at_ https://wooten.link/_4.
+[^2025-return-noncash-assets]: 2025 Form 1120-S, p. 9, fair market value of noncash assets, _available at_ https://wooten.link/_4#9.
 
-[^2025-taxes-and-licenses]: 2025 Statement of Profit, Loss, and Retained Earnings, wooten.link/_4 at 10, Taxes and Licenses and Web Domains, _available at_ https://wooten.link/_4.
+[^2025-domain-expenses]: 2025 Statement of Profit, Loss, and Retained Earnings, https://wooten.link/_4#10, Web Domains, _available at_ https://wooten.link/_4.
+
+[^2025-taxes-and-licenses]: 2025 Statement of Profit, Loss, and Retained Earnings, https://wooten.link/_4#10, Taxes and Licenses and Web Domains, _available at_ https://wooten.link/_4.
 
 [^bank-account-balance]: Taxpayer's operating bank-account screenshot, _available at_ https://github.com/blocktransfer/treasury-cases/blob/fbc62311a81ff0c8052bdc9c6a65bf32d9303dd2/case-1/CAP/statement.png.
 
@@ -125,11 +138,13 @@ BlockTrans Syndicate
 
 [^cfr-levy-release]: 26 CFR 301.6343-1(b)(2), release of levy to facilitate collection, _available at_ https://www.ecfr.gov/current/title-26/section-301.6343-1.
 
+[^statutory-taxpayer]: 26 USC 6343(a)(1)(D), _available at_ https://uscode.house.gov/us/usc/119-136/t26/s6343/; 26 USC 7701(a)(1) and (14), including the introductory qualification concerning contrary statutory expression or manifest incompatibility with statutory intent, _available at_ https://uscode.house.gov/us/usc/t26/s7701/.
+
+[^corporate-levy-relief]: 26 CFR 301.6343-1(b)(4)(i), _available at_ https://www.ecfr.gov/current/title-26/section-301.6343-1. See *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. 235 (2017), _available at_ https://www.courtlistener.com/opinion/4563370/lindsay-manor-nursing-home-inc-v-commr/ (rejecting the corporate taxpayer's statutory argument), vacated as moot, No. 17-9002 (10th Cir. Mar. 27, 2018), _available at_ https://law.justia.com/cases/federal/appellate-courts/ca10/17-9002/17-9002-2018-03-27.html; *Seminole Nursing Home, Inc. v. Commissioner*, 12 F.4th 1150 (10th Cir. 2021), _available at_ https://law.justia.com/cases/federal/appellate-courts/ca10/20-9005/20-9005-2021-09-02.html (rejecting the same statutory argument and sustaining the regulation under *Chevron*). These decisions are cited to identify the arguments and their disposition, not as holdings in favor of corporate economic-hardship relief.
+
+[^loper-bright]: *Loper Bright Enterprises v. Raimondo*, 603 U.S. 369, 412 (2024), _available at_ https://www.law.cornell.edu/supremecourt/text/22-451. The Court expressly preserved the ordinary operation of statutory stare decisis for earlier holdings sustaining agency actions; the overruling of *Chevron* does not itself overturn *Seminole* or invalidate the Treasury regulation.
+
 [^irm-cap-collection-stay]: IRM 5.1.9.4, Collection Appeals Program procedures, _available at_ https://www.irs.gov/irm/part5/irm_05-001-009.
-
-[^irm-bank-levy]: IRM 5.11.4, bank levies and the 21-day holding period, _available at_ https://www.irs.gov/irm/part5/irm_05-011-004.
-
----
 
 ## Working notes — not part of the appeal submission
 
@@ -137,11 +152,6 @@ BlockTrans Syndicate
 - Confirm the exact language, dates, source, and subject of the 60-day and 90-day representations; obtain the corresponding letters and collection history. The repository does not establish that either representation was an enforceable promise to suspend collection.
 - Confirm the CAP receipt, any managerial conference, collection office, notice identifiers, tax periods covered, whether a levy was actually served, the service date and bank surrender status. The existing file records November 16 as the original filing date; no new filing is represented here.
 - Confirm the date of the supplied bank-account screenshot, whether the approximately $334 balance remains current, and whether any additional unrestricted cash is available; obtain dated domain-renewal invoices, franchise-tax due dates and charges, prior late-fee documentation, and any other necessary business expenses. Quantify the minimum cash needed and explain how retaining it facilitates eventual payment. Obtain current holdings, market quotations, acquisition costs, and estimated net liquidation proceeds to substantiate the asserted disadvantage of selling now.
-- Page 9 of wooten.link/_4 has been confirmed from the supplied excerpt: $14,230.21 in Stellar Lumens, $2,250 in the blocktransfer.com domain, and $16.28 in FxDAO tokens, totaling $16,496.49 in reported fair market value. Confirm page 10 ($556.53 in annual web-domain expenses) before submission; the shortlink could not be independently retrieved during this revision. The monthly expense computation has been checked. Retain dated renewal invoices to substantiate actual upcoming payments.
+- The figures at https://wooten.link/_4#9 have been confirmed from the supplied excerpt: $14,230.21 in Stellar Lumens, $2,250 in the blocktransfer.com domain, and $16.28 in FxDAO tokens, totaling $16,496.49 in reported fair market value. Confirm the $556.53 in annual web-domain expenses at https://wooten.link/_4#10 before submission; the shortlink could not be independently retrieved during this revision. The monthly expense computation has been checked. Retain dated renewal invoices to substantiate actual upcoming payments.
 - Request access to the nonprivileged administrative file where applicable under 26 USC 7803(e)(7) and IRM 8.24.1.3.1, without assuming the statutory advance-access requirements apply to every corporate taxpayer.
 - Keep any distinct CDP deadlines and remedies separate; do not assume a CAP request preserves a CDP hearing deadline or confers judicial review.
-- Citation correction: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. No. 9 (2017)[^lindsay-manor-opinion] was vacated on mootness grounds on appeal, No. 17-9002 (10th Cir. Mar. 27, 2018).[^lindsay-manor-vacatur] Do not rely on that vacated decision as precedent. The working appeal instead rests on the current regulation and the separate statutory facilitation-of-collection ground.
-
-[^lindsay-manor-opinion]: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, 148 T.C. No. 9 (2017), vacated, _available at_ https://www.courtlistener.com/opinion/4563370/lindsay-manor-nursing-home-inc-v-commr/.
-
-[^lindsay-manor-vacatur]: *Lindsay Manor Nursing Home, Inc. v. Commissioner*, No. 17-9002 (10th Cir. Mar. 27, 2018), vacatur on mootness grounds, _available at_ https://law.justia.com/cases/federal/appellate-courts/ca10/17-9002/17-9002-2018-03-27.html.
